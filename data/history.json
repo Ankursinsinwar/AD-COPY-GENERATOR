@@ -1,5 +1,3555 @@
 [
   {
+    "id": "cc73f342-8af2-47e6-b716-099628c61d14",
+    "campaign_id": "cc73f342-8af2-47e6-b716-099628c61d14",
+    "timestamp": "2026-09-07T10:22:35.707882",
+    "product": "Smart Fitness Watch",
+    "product_name": "Smart Fitness Watch",
+    "description": "",
+    "audience": "Young professionals and fitness enthusiasts",
+    "target_audience": "Young professionals and fitness enthusiasts",
+    "selected_platforms": [
+      "google",
+      "facebook",
+      "instagram"
+    ],
+    "platforms": [
+      "google",
+      "facebook",
+      "instagram"
+    ],
+    "tone": "professional",
+    "variation_count": 3,
+    "overall_score": 83.9,
+    "results": {
+      "Google Ads": {
+        "platform": "Google Ads",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Advanced Sensor Fitness Watch",
+            "body": "Track heart rate, sleep, GPS with precision.",
+            "cta": "Learn More",
+            "hashtags": [],
+            "score": {
+              "headline_strength": 85.0,
+              "clarity": 90.0,
+              "emotional_appeal": 67.0,
+              "cta_effectiveness": 90.0,
+              "overall": 82.8,
+              "strengths": [
+                "High-impact headline tailored for hook retention.",
+                "Concise body messaging with excellent readability.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Add sensory or FOMO trigger words to heighten emotional response."
+              ]
+            },
+            "strengths": [
+              "High-impact headline tailored for hook retention.",
+              "Concise body messaging with excellent readability.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Add sensory or FOMO trigger words to heighten emotional response."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Elevate Your Workouts Today",
+            "body": "Stay fit, boost focus, and meet goals effortlessly.",
+            "cta": "Shop Now",
+            "hashtags": [],
+            "score": {
+              "headline_strength": 83.0,
+              "clarity": 88.0,
+              "emotional_appeal": 93.0,
+              "cta_effectiveness": 65.0,
+              "overall": 83.2,
+              "strengths": [
+                "High-impact headline tailored for hook retention.",
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers."
+              ],
+              "suggestions": [
+                "Upgrade the CTA with an explicit action verb like 'Claim', 'Unlock', or 'Get Started'."
+              ]
+            },
+            "strengths": [
+              "High-impact headline tailored for hook retention.",
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers."
+            ],
+            "suggestions": [
+              "Upgrade the CTA with an explicit action verb like 'Claim', 'Unlock', or 'Get Started'."
+            ]
+          },
+          {
+            "id": "C",
+            "label": "Urgency-Focused",
+            "headline": "Limited Stock—Act Fast",
+            "body": "Only 50 units left. Secure yours before they’re gone.",
+            "cta": "Buy Now",
+            "hashtags": [],
+            "score": {
+              "headline_strength": 87.0,
+              "clarity": 85.0,
+              "emotional_appeal": 96.0,
+              "cta_effectiveness": 90.0,
+              "overall": 89.3,
+              "strengths": [
+                "High-impact headline tailored for hook retention.",
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Test this variant against smaller target demographic segments."
+              ]
+            },
+            "strengths": [
+              "High-impact headline tailored for hook retention.",
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Test this variant against smaller target demographic segments."
+            ]
+          }
+        ]
+      },
+      "Facebook": {
+        "platform": "Facebook",
+        "warning": "AI response formatting error fallback: Raw response is empty or not a string",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Discover Smart Fitness Watch — Feature-Focused",
+            "body": "Experience top performance with Smart Fitness Watch. Tailored to meet your needs effectively.",
+            "cta": "Learn More",
+            "hashtags": [],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 84.0,
+              "emotional_appeal": 72.0,
+              "cta_effectiveness": 90.0,
+              "overall": 80.1,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize facebook engagement.",
+                "Add sensory or FOMO trigger words to heighten emotional response."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize facebook engagement.",
+              "Add sensory or FOMO trigger words to heighten emotional response."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Discover Smart Fitness Watch — Benefit-Focused",
+            "body": "Experience top performance with Smart Fitness Watch. Tailored to meet your needs effectively.",
+            "cta": "Learn More",
+            "hashtags": [],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 84.0,
+              "emotional_appeal": 72.0,
+              "cta_effectiveness": 90.0,
+              "overall": 80.1,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize facebook engagement.",
+                "Add sensory or FOMO trigger words to heighten emotional response."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize facebook engagement.",
+              "Add sensory or FOMO trigger words to heighten emotional response."
+            ]
+          },
+          {
+            "id": "C",
+            "label": "Urgency-Focused",
+            "headline": "Discover Smart Fitness Watch — Urgency-Focused",
+            "body": "Experience top performance with Smart Fitness Watch. Tailored to meet your needs effectively.",
+            "cta": "Learn More",
+            "hashtags": [],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 84.0,
+              "emotional_appeal": 72.0,
+              "cta_effectiveness": 90.0,
+              "overall": 80.1,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize facebook engagement.",
+                "Add sensory or FOMO trigger words to heighten emotional response."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize facebook engagement.",
+              "Add sensory or FOMO trigger words to heighten emotional response."
+            ]
+          }
+        ]
+      },
+      "Instagram": {
+        "platform": "Instagram",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Precision Meets Style: Smart Fitness Watch",
+            "body": "Track heart rate, GPS, sleep with crystal‑clear display. 5‑day battery, waterproof, app sync. Built for the professional.",
+            "cta": "Shop Now",
+            "hashtags": [
+              "#SmartTech",
+              "#FitnessPro",
+              "#WorkLifeBalance",
+              "#HealthTracker",
+              "#WearableTech"
+            ],
+            "score": {
+              "headline_strength": 90.0,
+              "clarity": 94.0,
+              "emotional_appeal": 67.0,
+              "cta_effectiveness": 65.0,
+              "overall": 80.2,
+              "strengths": [
+                "High-impact headline tailored for hook retention.",
+                "Concise body messaging with excellent readability."
+              ],
+              "suggestions": [
+                "Add sensory or FOMO trigger words to heighten emotional response.",
+                "Upgrade the CTA with an explicit action verb like 'Claim', 'Unlock', or 'Get Started'."
+              ]
+            },
+            "strengths": [
+              "High-impact headline tailored for hook retention.",
+              "Concise body messaging with excellent readability."
+            ],
+            "suggestions": [
+              "Add sensory or FOMO trigger words to heighten emotional response.",
+              "Upgrade the CTA with an explicit action verb like 'Claim', 'Unlock', or 'Get Started'."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Elevate Your Performance, Every Day",
+            "body": "Stay on track with real‑time metrics, boost focus, and recover faster. Your goals, met with precision—no excuses.",
+            "cta": "Get Yours",
+            "hashtags": [
+              "#FitLife",
+              "#Productivity",
+              "#HealthGoals",
+              "#TechWearables",
+              "#SuccessMindset"
+            ],
+            "score": {
+              "headline_strength": 85.0,
+              "clarity": 92.0,
+              "emotional_appeal": 93.0,
+              "cta_effectiveness": 90.0,
+              "overall": 89.8,
+              "strengths": [
+                "High-impact headline tailored for hook retention.",
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Test this variant against smaller target demographic segments."
+              ]
+            },
+            "strengths": [
+              "High-impact headline tailored for hook retention.",
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Test this variant against smaller target demographic segments."
+            ]
+          },
+          {
+            "id": "C",
+            "label": "Urgency-Focused",
+            "headline": "Limited Stock: Grab Yours Before It’s Gone",
+            "body": "Only 50 units left. Don’t miss the chance to own the ultimate fitness companion. Act now!",
+            "cta": "Buy Now",
+            "hashtags": [
+              "#LimitedOffer",
+              "#LastChance",
+              "#FitnessGear",
+              "#Urgent",
+              "#SmartWatch"
+            ],
+            "score": {
+              "headline_strength": 83.0,
+              "clarity": 89.0,
+              "emotional_appeal": 96.0,
+              "cta_effectiveness": 90.0,
+              "overall": 89.2,
+              "strengths": [
+                "High-impact headline tailored for hook retention.",
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Test this variant against smaller target demographic segments."
+              ]
+            },
+            "strengths": [
+              "High-impact headline tailored for hook retention.",
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Test this variant against smaller target demographic segments."
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "9cd7254d-8be9-4560-8441-c0b21104d87f",
+    "campaign_id": "9cd7254d-8be9-4560-8441-c0b21104d87f",
+    "timestamp": "2026-09-07T10:22:21.691542",
+    "product": "Smart Fitness Watch",
+    "product_name": "Smart Fitness Watch",
+    "description": "",
+    "audience": "Young professionals and fitness enthusiasts",
+    "target_audience": "Young professionals and fitness enthusiasts",
+    "selected_platforms": [
+      "google",
+      "facebook",
+      "instagram"
+    ],
+    "platforms": [
+      "google",
+      "facebook",
+      "instagram"
+    ],
+    "tone": "professional",
+    "variation_count": 3,
+    "overall_score": 83.0,
+    "results": {
+      "Google Ads": {
+        "platform": "Google Ads",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "GPS & heart rate tracking",
+            "body": "Track workouts, monitor health metrics, and sync seamlessly with your phone.",
+            "cta": "Learn More",
+            "hashtags": [],
+            "score": {
+              "headline_strength": 85.0,
+              "clarity": 94.0,
+              "emotional_appeal": 67.0,
+              "cta_effectiveness": 90.0,
+              "overall": 83.8,
+              "strengths": [
+                "High-impact headline tailored for hook retention.",
+                "Concise body messaging with excellent readability.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Add sensory or FOMO trigger words to heighten emotional response."
+              ]
+            },
+            "strengths": [
+              "High-impact headline tailored for hook retention.",
+              "Concise body messaging with excellent readability.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Add sensory or FOMO trigger words to heighten emotional response."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Workout insights in real time",
+            "body": "Achieve goals faster, stay motivated, and track progress effortlessly.",
+            "cta": "Shop Now",
+            "hashtags": [],
+            "score": {
+              "headline_strength": 90.0,
+              "clarity": 88.0,
+              "emotional_appeal": 96.0,
+              "cta_effectiveness": 65.0,
+              "overall": 86.0,
+              "strengths": [
+                "High-impact headline tailored for hook retention.",
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers."
+              ],
+              "suggestions": [
+                "Upgrade the CTA with an explicit action verb like 'Claim', 'Unlock', or 'Get Started'."
+              ]
+            },
+            "strengths": [
+              "High-impact headline tailored for hook retention.",
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers."
+            ],
+            "suggestions": [
+              "Upgrade the CTA with an explicit action verb like 'Claim', 'Unlock', or 'Get Started'."
+            ]
+          },
+          {
+            "id": "C",
+            "label": "Urgency-Focused",
+            "headline": "Limited stock, grab yours today",
+            "body": "Only a few left—order now to avoid missing out.",
+            "cta": "Buy Now",
+            "hashtags": [],
+            "score": {
+              "headline_strength": 83.0,
+              "clarity": 85.0,
+              "emotional_appeal": 96.0,
+              "cta_effectiveness": 90.0,
+              "overall": 88.2,
+              "strengths": [
+                "High-impact headline tailored for hook retention.",
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Test this variant against smaller target demographic segments."
+              ]
+            },
+            "strengths": [
+              "High-impact headline tailored for hook retention.",
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Test this variant against smaller target demographic segments."
+            ]
+          }
+        ]
+      },
+      "Facebook": {
+        "platform": "Facebook",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Next‑Gen Smart Fitness Watch",
+            "body": "Meet the future of fitness tech. 1.7” OLED display, built‑in GPS, 7‑day battery, water‑resistant. Track every move.",
+            "cta": "Shop Now",
+            "hashtags": [
+              "#SmartFit",
+              "#TechGear"
+            ],
+            "score": {
+              "headline_strength": 85.0,
+              "clarity": 89.0,
+              "emotional_appeal": 67.0,
+              "cta_effectiveness": 65.0,
+              "overall": 77.5,
+              "strengths": [
+                "High-impact headline tailored for hook retention.",
+                "Concise body messaging with excellent readability."
+              ],
+              "suggestions": [
+                "Add sensory or FOMO trigger words to heighten emotional response.",
+                "Upgrade the CTA with an explicit action verb like 'Claim', 'Unlock', or 'Get Started'."
+              ]
+            },
+            "strengths": [
+              "High-impact headline tailored for hook retention.",
+              "Concise body messaging with excellent readability."
+            ],
+            "suggestions": [
+              "Add sensory or FOMO trigger words to heighten emotional response.",
+              "Upgrade the CTA with an explicit action verb like 'Claim', 'Unlock', or 'Get Started'."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Reach Goals Faster",
+            "body": "Elevate your workouts with a watch that tracks heart rate, GPS, and sleep—so you hit goals faster and stay healthy.",
+            "cta": "Learn More",
+            "hashtags": [
+              "#FitnessGoals",
+              "#HealthTech"
+            ],
+            "score": {
+              "headline_strength": 83.0,
+              "clarity": 91.0,
+              "emotional_appeal": 79.0,
+              "cta_effectiveness": 90.0,
+              "overall": 85.4,
+              "strengths": [
+                "High-impact headline tailored for hook retention.",
+                "Concise body messaging with excellent readability.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Add sensory or FOMO trigger words to heighten emotional response."
+              ]
+            },
+            "strengths": [
+              "High-impact headline tailored for hook retention.",
+              "Concise body messaging with excellent readability.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Add sensory or FOMO trigger words to heighten emotional response."
+            ]
+          },
+          {
+            "id": "C",
+            "label": "Urgency-Focused",
+            "headline": "Only a Few Left",
+            "body": "Only a few Smart Fitness Watches left. Secure yours before the exclusive launch ends. Don’t miss this chance!",
+            "cta": "Buy Now",
+            "hashtags": [
+              "#LimitedOffer",
+              "#SmartFit"
+            ],
+            "score": {
+              "headline_strength": 80.0,
+              "clarity": 84.0,
+              "emotional_appeal": 93.0,
+              "cta_effectiveness": 90.0,
+              "overall": 86.2,
+              "strengths": [
+                "High-impact headline tailored for hook retention.",
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Test this variant against smaller target demographic segments."
+              ]
+            },
+            "strengths": [
+              "High-impact headline tailored for hook retention.",
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Test this variant against smaller target demographic segments."
+            ]
+          }
+        ]
+      },
+      "Instagram": {
+        "platform": "Instagram",
+        "warning": "AI response formatting error fallback: Raw response is empty or not a string",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Discover Smart Fitness Watch — Feature-Focused",
+            "body": "Experience top performance with Smart Fitness Watch. Tailored to meet your needs effectively.",
+            "cta": "Learn More",
+            "hashtags": [
+              "#SmartFitnessWatch",
+              "#AdCopy"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 84.0,
+              "emotional_appeal": 72.0,
+              "cta_effectiveness": 90.0,
+              "overall": 80.1,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize instagram engagement.",
+                "Add sensory or FOMO trigger words to heighten emotional response."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize instagram engagement.",
+              "Add sensory or FOMO trigger words to heighten emotional response."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Discover Smart Fitness Watch — Benefit-Focused",
+            "body": "Experience top performance with Smart Fitness Watch. Tailored to meet your needs effectively.",
+            "cta": "Learn More",
+            "hashtags": [
+              "#SmartFitnessWatch",
+              "#AdCopy"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 84.0,
+              "emotional_appeal": 72.0,
+              "cta_effectiveness": 90.0,
+              "overall": 80.1,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize instagram engagement.",
+                "Add sensory or FOMO trigger words to heighten emotional response."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize instagram engagement.",
+              "Add sensory or FOMO trigger words to heighten emotional response."
+            ]
+          },
+          {
+            "id": "C",
+            "label": "Urgency-Focused",
+            "headline": "Discover Smart Fitness Watch — Urgency-Focused",
+            "body": "Experience top performance with Smart Fitness Watch. Tailored to meet your needs effectively.",
+            "cta": "Learn More",
+            "hashtags": [
+              "#SmartFitnessWatch",
+              "#AdCopy"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 84.0,
+              "emotional_appeal": 72.0,
+              "cta_effectiveness": 90.0,
+              "overall": 80.1,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize instagram engagement.",
+                "Add sensory or FOMO trigger words to heighten emotional response."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize instagram engagement.",
+              "Add sensory or FOMO trigger words to heighten emotional response."
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "a8482d5d-83cd-4ab4-95bc-ebc9bbd54864",
+    "campaign_id": "a8482d5d-83cd-4ab4-95bc-ebc9bbd54864",
+    "timestamp": "2026-09-07T10:19:42.015850",
+    "product": "Smart Fitness Watch",
+    "product_name": "Smart Fitness Watch",
+    "description": "",
+    "audience": "Young professionals and fitness enthusiasts",
+    "target_audience": "Young professionals and fitness enthusiasts",
+    "selected_platforms": [
+      "google",
+      "facebook",
+      "instagram"
+    ],
+    "platforms": [
+      "google",
+      "facebook",
+      "instagram"
+    ],
+    "tone": "professional",
+    "variation_count": 3,
+    "overall_score": 81.9,
+    "results": {
+      "Google Ads": {
+        "platform": "Google Ads",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Smart Fitness Watch: Precision",
+            "body": "Track heart rate, GPS, sleep, and sync with your phone.",
+            "cta": "Shop Now",
+            "hashtags": [],
+            "score": {
+              "headline_strength": 90.0,
+              "clarity": 94.0,
+              "emotional_appeal": 67.0,
+              "cta_effectiveness": 65.0,
+              "overall": 80.2,
+              "strengths": [
+                "High-impact headline tailored for hook retention.",
+                "Concise body messaging with excellent readability."
+              ],
+              "suggestions": [
+                "Add sensory or FOMO trigger words to heighten emotional response.",
+                "Upgrade the CTA with an explicit action verb like 'Claim', 'Unlock', or 'Get Started'."
+              ]
+            },
+            "strengths": [
+              "High-impact headline tailored for hook retention.",
+              "Concise body messaging with excellent readability."
+            ],
+            "suggestions": [
+              "Add sensory or FOMO trigger words to heighten emotional response.",
+              "Upgrade the CTA with an explicit action verb like 'Claim', 'Unlock', or 'Get Started'."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Smart Watch: Peak Performance",
+            "body": "Stay fit, stay focused, and achieve your fitness goals faster.",
+            "cta": "Shop Now",
+            "hashtags": [],
+            "score": {
+              "headline_strength": 85.0,
+              "clarity": 96.0,
+              "emotional_appeal": 82.0,
+              "cta_effectiveness": 65.0,
+              "overall": 83.0,
+              "strengths": [
+                "High-impact headline tailored for hook retention.",
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers."
+              ],
+              "suggestions": [
+                "Upgrade the CTA with an explicit action verb like 'Claim', 'Unlock', or 'Get Started'."
+              ]
+            },
+            "strengths": [
+              "High-impact headline tailored for hook retention.",
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers."
+            ],
+            "suggestions": [
+              "Upgrade the CTA with an explicit action verb like 'Claim', 'Unlock', or 'Get Started'."
+            ]
+          },
+          {
+            "id": "C",
+            "label": "Urgency-Focused",
+            "headline": "Limited Stock: Get Smart Watch",
+            "body": "Act now—limited units available. Secure yours before they sell out.",
+            "cta": "Shop Now",
+            "hashtags": [],
+            "score": {
+              "headline_strength": 83.0,
+              "clarity": 92.0,
+              "emotional_appeal": 96.0,
+              "cta_effectiveness": 65.0,
+              "overall": 84.9,
+              "strengths": [
+                "High-impact headline tailored for hook retention.",
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers."
+              ],
+              "suggestions": [
+                "Upgrade the CTA with an explicit action verb like 'Claim', 'Unlock', or 'Get Started'."
+              ]
+            },
+            "strengths": [
+              "High-impact headline tailored for hook retention.",
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers."
+            ],
+            "suggestions": [
+              "Upgrade the CTA with an explicit action verb like 'Claim', 'Unlock', or 'Get Started'."
+            ]
+          }
+        ]
+      },
+      "Facebook": {
+        "platform": "Facebook",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Cutting‑Edge Specs for Peak Performance",
+            "body": "Meet the next-gen Smart Fitness Watch. Precision sensors, 7‑day battery, LTE connectivity, and advanced health analytics keep you on track.",
+            "cta": "Explore Now",
+            "hashtags": [
+              "#SmartTech",
+              "#FitPro"
+            ],
+            "score": {
+              "headline_strength": 89.0,
+              "clarity": 94.0,
+              "emotional_appeal": 67.0,
+              "cta_effectiveness": 65.0,
+              "overall": 80.0,
+              "strengths": [
+                "High-impact headline tailored for hook retention.",
+                "Concise body messaging with excellent readability."
+              ],
+              "suggestions": [
+                "Add sensory or FOMO trigger words to heighten emotional response.",
+                "Upgrade the CTA with an explicit action verb like 'Claim', 'Unlock', or 'Get Started'."
+              ]
+            },
+            "strengths": [
+              "High-impact headline tailored for hook retention.",
+              "Concise body messaging with excellent readability."
+            ],
+            "suggestions": [
+              "Add sensory or FOMO trigger words to heighten emotional response.",
+              "Upgrade the CTA with an explicit action verb like 'Claim', 'Unlock', or 'Get Started'."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Your Success, Simplified",
+            "body": "Elevate your workouts without the hassle. Track heart rate, calories, and sleep quality—all in one sleek device—so you can focus on crushing goals, not data.",
+            "cta": "Get Started",
+            "hashtags": [
+              "#FitLife",
+              "#GoalGetter"
+            ],
+            "score": {
+              "headline_strength": 85.0,
+              "clarity": 89.0,
+              "emotional_appeal": 75.0,
+              "cta_effectiveness": 90.0,
+              "overall": 84.5,
+              "strengths": [
+                "High-impact headline tailored for hook retention.",
+                "Concise body messaging with excellent readability.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Add sensory or FOMO trigger words to heighten emotional response."
+              ]
+            },
+            "strengths": [
+              "High-impact headline tailored for hook retention.",
+              "Concise body messaging with excellent readability.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Add sensory or FOMO trigger words to heighten emotional response."
+            ]
+          },
+          {
+            "id": "C",
+            "label": "Urgency-Focused",
+            "headline": "Act Fast—Only 200 Left!",
+            "body": "Limited slots for elite fitness pros. Only 200 Smart Watches left—secure yours now and claim exclusive early‑bird perks before they’re gone.",
+            "cta": "Buy Now",
+            "hashtags": [
+              "#LimitedOffer",
+              "#ActNow"
+            ],
+            "score": {
+              "headline_strength": 83.0,
+              "clarity": 84.0,
+              "emotional_appeal": 93.0,
+              "cta_effectiveness": 90.0,
+              "overall": 87.2,
+              "strengths": [
+                "High-impact headline tailored for hook retention.",
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Test this variant against smaller target demographic segments."
+              ]
+            },
+            "strengths": [
+              "High-impact headline tailored for hook retention.",
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Test this variant against smaller target demographic segments."
+            ]
+          }
+        ]
+      },
+      "Instagram": {
+        "platform": "Instagram",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Smart Fitness Watch: Precision Tracking, Long Battery, LTE Connectivity",
+            "body": "Built with military-grade durability, 24/7 heart rate monitoring, and AI-driven insights to optimize your workouts and recovery.",
+            "cta": "Explore Features",
+            "hashtags": [
+              "#SmartFitWatch",
+              "#TechFitness",
+              "#ProGear"
+            ],
+            "score": {
+              "headline_strength": 75.0,
+              "clarity": 89.0,
+              "emotional_appeal": 67.0,
+              "cta_effectiveness": 65.0,
+              "overall": 74.5,
+              "strengths": [
+                "Concise body messaging with excellent readability."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize instagram engagement.",
+                "Add sensory or FOMO trigger words to heighten emotional response.",
+                "Upgrade the CTA with an explicit action verb like 'Claim', 'Unlock', or 'Get Started'."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize instagram engagement.",
+              "Add sensory or FOMO trigger words to heighten emotional response.",
+              "Upgrade the CTA with an explicit action verb like 'Claim', 'Unlock', or 'Get Started'."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Elevate Your Performance: Smart Fitness Watch Helps You Beat Personal Bests",
+            "body": "Sync with your calendar, get real-time coaching, and data-driven insights that keep you motivated toward every goal.",
+            "cta": "Get Started",
+            "hashtags": [
+              "#FitSuccess",
+              "#SmartWatch",
+              "#ProLifestyle"
+            ],
+            "score": {
+              "headline_strength": 73.0,
+              "clarity": 87.0,
+              "emotional_appeal": 77.0,
+              "cta_effectiveness": 90.0,
+              "overall": 80.9,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize instagram engagement.",
+                "Add sensory or FOMO trigger words to heighten emotional response."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize instagram engagement.",
+              "Add sensory or FOMO trigger words to heighten emotional response."
+            ]
+          },
+          {
+            "id": "C",
+            "label": "Urgency-Focused",
+            "headline": "Limited Time: Secure Your Smart Fitness Watch Before Stocks Run Out",
+            "body": "Act now to lock in exclusive features and a special discount—once the offer ends, this premium tech will be out of reach.",
+            "cta": "Shop Now",
+            "hashtags": [
+              "#LimitedOffer",
+              "#SmartFit",
+              "#ActFast"
+            ],
+            "score": {
+              "headline_strength": 80.0,
+              "clarity": 84.0,
+              "emotional_appeal": 96.0,
+              "cta_effectiveness": 65.0,
+              "overall": 82.0,
+              "strengths": [
+                "High-impact headline tailored for hook retention.",
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers."
+              ],
+              "suggestions": [
+                "Upgrade the CTA with an explicit action verb like 'Claim', 'Unlock', or 'Get Started'."
+              ]
+            },
+            "strengths": [
+              "High-impact headline tailored for hook retention.",
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers."
+            ],
+            "suggestions": [
+              "Upgrade the CTA with an explicit action verb like 'Claim', 'Unlock', or 'Get Started'."
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "b3a5745e-b2d6-4b18-9251-55e5a076ec55",
+    "campaign_id": "b3a5745e-b2d6-4b18-9251-55e5a076ec55",
+    "timestamp": "2026-09-07T10:19:28.060858",
+    "product": "Smart Fitness Watch",
+    "product_name": "Smart Fitness Watch",
+    "description": "",
+    "audience": "Young professionals and fitness enthusiasts",
+    "target_audience": "Young professionals and fitness enthusiasts",
+    "selected_platforms": [
+      "google",
+      "facebook",
+      "instagram"
+    ],
+    "platforms": [
+      "google",
+      "facebook",
+      "instagram"
+    ],
+    "tone": "professional",
+    "variation_count": 3,
+    "overall_score": 0.0,
+    "results": {
+      "Google Ads": {
+        "platform": "Google Ads",
+        "error": "Groq API Error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}",
+        "is_quota_exceeded": false,
+        "variations": []
+      },
+      "Facebook": {
+        "platform": "Facebook",
+        "error": "Groq API Error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}",
+        "is_quota_exceeded": false,
+        "variations": []
+      },
+      "Instagram": {
+        "platform": "Instagram",
+        "error": "Groq API Error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}",
+        "is_quota_exceeded": false,
+        "variations": []
+      }
+    }
+  },
+  {
+    "id": "90b79c95-2989-4a1d-b76b-53533dd9aab8",
+    "campaign_id": "90b79c95-2989-4a1d-b76b-53533dd9aab8",
+    "timestamp": "2026-09-07T10:19:27.126047",
+    "product": "Smart Fitness Watch",
+    "product_name": "Smart Fitness Watch",
+    "description": "",
+    "audience": "Young professionals and fitness enthusiasts",
+    "target_audience": "Young professionals and fitness enthusiasts",
+    "selected_platforms": [
+      "google",
+      "facebook",
+      "instagram"
+    ],
+    "platforms": [
+      "google",
+      "facebook",
+      "instagram"
+    ],
+    "tone": "professional",
+    "variation_count": 3,
+    "overall_score": 0.0,
+    "results": {
+      "Google Ads": {
+        "platform": "Google Ads",
+        "error": "Groq API Error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}",
+        "is_quota_exceeded": false,
+        "variations": []
+      },
+      "Facebook": {
+        "platform": "Facebook",
+        "error": "Groq API Error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}",
+        "is_quota_exceeded": false,
+        "variations": []
+      },
+      "Instagram": {
+        "platform": "Instagram",
+        "error": "Groq API Error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}",
+        "is_quota_exceeded": false,
+        "variations": []
+      }
+    }
+  },
+  {
+    "id": "789b97c5-8f22-4623-9200-d4e877241d54",
+    "campaign_id": "789b97c5-8f22-4623-9200-d4e877241d54",
+    "timestamp": "2026-09-07T10:19:26.102656",
+    "product": "Smart Fitness Watch",
+    "product_name": "Smart Fitness Watch",
+    "description": "",
+    "audience": "Young professionals and fitness enthusiasts",
+    "target_audience": "Young professionals and fitness enthusiasts",
+    "selected_platforms": [
+      "google",
+      "facebook",
+      "instagram"
+    ],
+    "platforms": [
+      "google",
+      "facebook",
+      "instagram"
+    ],
+    "tone": "professional",
+    "variation_count": 3,
+    "overall_score": 0.0,
+    "results": {
+      "Google Ads": {
+        "platform": "Google Ads",
+        "error": "Groq API Error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}",
+        "is_quota_exceeded": false,
+        "variations": []
+      },
+      "Facebook": {
+        "platform": "Facebook",
+        "error": "Groq API Error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}",
+        "is_quota_exceeded": false,
+        "variations": []
+      },
+      "Instagram": {
+        "platform": "Instagram",
+        "error": "Groq API Error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}",
+        "is_quota_exceeded": false,
+        "variations": []
+      }
+    }
+  },
+  {
+    "id": "848b9307-20e9-4cd4-bb62-948bf9036887",
+    "campaign_id": "848b9307-20e9-4cd4-bb62-948bf9036887",
+    "timestamp": "2026-09-07T10:19:21.483904",
+    "product": "Smart Fitness Watch",
+    "product_name": "Smart Fitness Watch",
+    "description": "",
+    "audience": "Young professionals and fitness enthusiasts",
+    "target_audience": "Young professionals and fitness enthusiasts",
+    "selected_platforms": [
+      "google",
+      "facebook",
+      "instagram"
+    ],
+    "platforms": [
+      "google",
+      "facebook",
+      "instagram"
+    ],
+    "tone": "professional",
+    "variation_count": 3,
+    "overall_score": 0.0,
+    "results": {
+      "Google Ads": {
+        "platform": "Google Ads",
+        "error": "Groq API Error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}",
+        "is_quota_exceeded": false,
+        "variations": []
+      },
+      "Facebook": {
+        "platform": "Facebook",
+        "error": "Groq API Error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}",
+        "is_quota_exceeded": false,
+        "variations": []
+      },
+      "Instagram": {
+        "platform": "Instagram",
+        "error": "Groq API Error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}",
+        "is_quota_exceeded": false,
+        "variations": []
+      }
+    }
+  },
+  {
+    "id": "0ca63eb4-3c3d-4c62-9c59-ea436540014d",
+    "campaign_id": "0ca63eb4-3c3d-4c62-9c59-ea436540014d",
+    "timestamp": "2026-09-07T10:14:37.862197",
+    "product": "Smart Fitness Watch",
+    "product_name": "Smart Fitness Watch",
+    "description": "",
+    "audience": "Young professionals and fitness enthusiasts",
+    "target_audience": "Young professionals and fitness enthusiasts",
+    "selected_platforms": [
+      "google",
+      "facebook",
+      "instagram"
+    ],
+    "platforms": [
+      "google",
+      "facebook",
+      "instagram"
+    ],
+    "tone": "professional",
+    "variation_count": 3,
+    "overall_score": 0.0,
+    "results": {
+      "Google Ads": {
+        "platform": "Google Ads",
+        "error": "Groq API Error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}",
+        "is_quota_exceeded": false,
+        "variations": []
+      },
+      "Facebook": {
+        "platform": "Facebook",
+        "error": "Groq API Error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}",
+        "is_quota_exceeded": false,
+        "variations": []
+      },
+      "Instagram": {
+        "platform": "Instagram",
+        "error": "Groq API Error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}",
+        "is_quota_exceeded": false,
+        "variations": []
+      }
+    }
+  },
+  {
+    "id": "a52dd64f-f1d8-4aa2-bb7e-3495ef2e5a57",
+    "campaign_id": "a52dd64f-f1d8-4aa2-bb7e-3495ef2e5a57",
+    "timestamp": "2026-09-07T10:12:23.811483",
+    "product": "Acme Cloud CRM",
+    "product_name": "Acme Cloud CRM",
+    "description": "AI-powered CRM for sales automation",
+    "audience": "SaaS Founders",
+    "target_audience": "SaaS Founders",
+    "selected_platforms": [
+      "google",
+      "instagram"
+    ],
+    "platforms": [
+      "google",
+      "instagram"
+    ],
+    "tone": "professional",
+    "variation_count": 2,
+    "overall_score": 80.1,
+    "results": {
+      "Google Ads": {
+        "platform": "Google Ads",
+        "error": "Groq API Error: Request timed out.",
+        "is_quota_exceeded": false,
+        "variations": []
+      },
+      "Instagram": {
+        "platform": "Instagram",
+        "warning": "AI response formatting error fallback: Raw response is empty or not a string",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Discover Acme Cloud CRM — Feature-Focused",
+            "body": "Experience top performance with Acme Cloud CRM. Tailored to meet your needs effectively.",
+            "cta": "Learn More",
+            "hashtags": [
+              "#AcmeCloudCRM",
+              "#AdCopy"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 84.0,
+              "emotional_appeal": 72.0,
+              "cta_effectiveness": 90.0,
+              "overall": 80.1,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize instagram engagement.",
+                "Add sensory or FOMO trigger words to heighten emotional response."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize instagram engagement.",
+              "Add sensory or FOMO trigger words to heighten emotional response."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Discover Acme Cloud CRM — Benefit-Focused",
+            "body": "Experience top performance with Acme Cloud CRM. Tailored to meet your needs effectively.",
+            "cta": "Learn More",
+            "hashtags": [
+              "#AcmeCloudCRM",
+              "#AdCopy"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 84.0,
+              "emotional_appeal": 72.0,
+              "cta_effectiveness": 90.0,
+              "overall": 80.1,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize instagram engagement.",
+                "Add sensory or FOMO trigger words to heighten emotional response."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize instagram engagement.",
+              "Add sensory or FOMO trigger words to heighten emotional response."
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "0c2f1dd0-04e5-4cff-950a-0c0749b435c2",
+    "campaign_id": "0c2f1dd0-04e5-4cff-950a-0c0749b435c2",
+    "timestamp": "2026-09-07T10:10:18.491187",
+    "product": "Acme Cloud CRM",
+    "product_name": "Acme Cloud CRM",
+    "description": "AI-powered CRM for sales automation",
+    "audience": "SaaS Founders",
+    "target_audience": "SaaS Founders",
+    "selected_platforms": [
+      "google",
+      "instagram"
+    ],
+    "platforms": [
+      "google",
+      "instagram"
+    ],
+    "tone": "professional",
+    "variation_count": 2,
+    "overall_score": 85.8,
+    "results": {
+      "Google Ads": {
+        "platform": "Google Ads",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "AI‑powered crm for saas sales",
+            "body": "Automate lead tracking, scoring, and follow‑ups with intelligent workflows.",
+            "cta": "Get Started",
+            "hashtags": [],
+            "score": {
+              "headline_strength": 90.0,
+              "clarity": 90.0,
+              "emotional_appeal": 67.0,
+              "cta_effectiveness": 90.0,
+              "overall": 84.2,
+              "strengths": [
+                "High-impact headline tailored for hook retention.",
+                "Concise body messaging with excellent readability.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Add sensory or FOMO trigger words to heighten emotional response."
+              ]
+            },
+            "strengths": [
+              "High-impact headline tailored for hook retention.",
+              "Concise body messaging with excellent readability.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Add sensory or FOMO trigger words to heighten emotional response."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Boost saas sales with ai crm",
+            "body": "Close deals faster by automating outreach and nurturing leads.",
+            "cta": "Learn More",
+            "hashtags": [],
+            "score": {
+              "headline_strength": 85.0,
+              "clarity": 85.0,
+              "emotional_appeal": 96.0,
+              "cta_effectiveness": 90.0,
+              "overall": 88.8,
+              "strengths": [
+                "High-impact headline tailored for hook retention.",
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Test this variant against smaller target demographic segments."
+              ]
+            },
+            "strengths": [
+              "High-impact headline tailored for hook retention.",
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Test this variant against smaller target demographic segments."
+            ]
+          }
+        ]
+      },
+      "Instagram": {
+        "platform": "Instagram",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Acme Cloud CRM: AI-Driven Sales Automation",
+            "body": "Streamline lead management with real-time AI insights, automated workflows, and seamless integration. Elevate SaaS sales.",
+            "cta": "Learn More",
+            "hashtags": [
+              "#SaaS",
+              "#CRM",
+              "#AI",
+              "#SalesAutomation",
+              "#AcmeCloud"
+            ],
+            "score": {
+              "headline_strength": 90.0,
+              "clarity": 94.0,
+              "emotional_appeal": 67.0,
+              "cta_effectiveness": 90.0,
+              "overall": 85.2,
+              "strengths": [
+                "High-impact headline tailored for hook retention.",
+                "Concise body messaging with excellent readability.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Add sensory or FOMO trigger words to heighten emotional response."
+              ]
+            },
+            "strengths": [
+              "High-impact headline tailored for hook retention.",
+              "Concise body messaging with excellent readability.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Add sensory or FOMO trigger words to heighten emotional response."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Accelerate Your SaaS Growth with AI-Powered CRM",
+            "body": "Stop chasing leads—Acme Cloud CRM automates outreach, prioritizes prospects, and speeds deal closures.",
+            "cta": "Get Started",
+            "hashtags": [
+              "#GrowthHacking",
+              "#SaaSFounders",
+              "#AI",
+              "#CRM",
+              "#Sales"
+            ],
+            "score": {
+              "headline_strength": 85.0,
+              "clarity": 89.0,
+              "emotional_appeal": 77.0,
+              "cta_effectiveness": 90.0,
+              "overall": 85.0,
+              "strengths": [
+                "High-impact headline tailored for hook retention.",
+                "Concise body messaging with excellent readability.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Add sensory or FOMO trigger words to heighten emotional response."
+              ]
+            },
+            "strengths": [
+              "High-impact headline tailored for hook retention.",
+              "Concise body messaging with excellent readability.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Add sensory or FOMO trigger words to heighten emotional response."
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "1ad02cc7-c085-4057-a023-2aa0489154cf",
+    "campaign_id": "1ad02cc7-c085-4057-a023-2aa0489154cf",
+    "timestamp": "2026-09-07T10:08:19.070948",
+    "product": "Acme Cloud CRM",
+    "product_name": "Acme Cloud CRM",
+    "description": "AI-powered CRM for sales automation",
+    "audience": "SaaS Founders",
+    "target_audience": "SaaS Founders",
+    "selected_platforms": [
+      "google",
+      "instagram"
+    ],
+    "platforms": [
+      "google",
+      "instagram"
+    ],
+    "tone": "professional",
+    "variation_count": 2,
+    "overall_score": 79.6,
+    "results": {
+      "Google Ads": {
+        "platform": "Google Ads",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Acme Cloud CRM — Feature-Focused",
+            "body": "AI-powered CRM for sales automation",
+            "cta": "Learn More",
+            "hashtags": [],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 72.0,
+              "cta_effectiveness": 90.0,
+              "overall": 79.1,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize google engagement.",
+                "Add sensory or FOMO trigger words to heighten emotional response."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize google engagement.",
+              "Add sensory or FOMO trigger words to heighten emotional response."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Acme Cloud CRM — Benefit-Focused",
+            "body": "AI-powered CRM for sales automation",
+            "cta": "Learn More",
+            "hashtags": [],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 72.0,
+              "cta_effectiveness": 90.0,
+              "overall": 79.1,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize google engagement.",
+                "Add sensory or FOMO trigger words to heighten emotional response."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize google engagement.",
+              "Add sensory or FOMO trigger words to heighten emotional response."
+            ]
+          }
+        ]
+      },
+      "Instagram": {
+        "platform": "Instagram",
+        "warning": "AI response formatting error fallback: Raw response is empty or not a string",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Discover Acme Cloud CRM — Feature-Focused",
+            "body": "Experience top performance with Acme Cloud CRM. Tailored to meet your needs effectively.",
+            "cta": "Learn More",
+            "hashtags": [
+              "#AcmeCloudCRM",
+              "#AdCopy"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 84.0,
+              "emotional_appeal": 72.0,
+              "cta_effectiveness": 90.0,
+              "overall": 80.1,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize instagram engagement.",
+                "Add sensory or FOMO trigger words to heighten emotional response."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize instagram engagement.",
+              "Add sensory or FOMO trigger words to heighten emotional response."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Discover Acme Cloud CRM — Benefit-Focused",
+            "body": "Experience top performance with Acme Cloud CRM. Tailored to meet your needs effectively.",
+            "cta": "Learn More",
+            "hashtags": [
+              "#AcmeCloudCRM",
+              "#AdCopy"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 84.0,
+              "emotional_appeal": 72.0,
+              "cta_effectiveness": 90.0,
+              "overall": 80.1,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize instagram engagement.",
+                "Add sensory or FOMO trigger words to heighten emotional response."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize instagram engagement.",
+              "Add sensory or FOMO trigger words to heighten emotional response."
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "0c275058-b50d-4eec-8b02-0635095f11f3",
+    "campaign_id": "0c275058-b50d-4eec-8b02-0635095f11f3",
+    "timestamp": "2026-09-07T10:06:14.018173",
+    "product": "Smart Fitness Watch",
+    "product_name": "Smart Fitness Watch",
+    "description": "A smartwatch that tracks heart rate, sleep, workouts, and daily activity.",
+    "audience": "Young professionals and fitness enthusiasts",
+    "target_audience": "Young professionals and fitness enthusiasts",
+    "selected_platforms": [
+      "google",
+      "facebook",
+      "instagram"
+    ],
+    "platforms": [
+      "google",
+      "facebook",
+      "instagram"
+    ],
+    "tone": "professional",
+    "variation_count": 3,
+    "overall_score": 0.0,
+    "results": {
+      "Google Ads": {
+        "platform": "Google Ads",
+        "error": "Groq API Error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}",
+        "is_quota_exceeded": false,
+        "variations": []
+      },
+      "Facebook": {
+        "platform": "Facebook",
+        "error": "Groq API Error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}",
+        "is_quota_exceeded": false,
+        "variations": []
+      },
+      "Instagram": {
+        "platform": "Instagram",
+        "error": "Groq API Error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}",
+        "is_quota_exceeded": false,
+        "variations": []
+      }
+    }
+  },
+  {
+    "id": "c3c37307-4cce-43c4-93b2-e142423490bd",
+    "campaign_id": "c3c37307-4cce-43c4-93b2-e142423490bd",
+    "timestamp": "2026-09-07T09:59:02.510060",
+    "product": "Smart Fitness Watch",
+    "product_name": "Smart Fitness Watch",
+    "description": "A smartwatch that tracks heart rate, sleep, workouts, and daily activity.",
+    "audience": "Young professionals and fitness enthusiasts",
+    "target_audience": "Young professionals and fitness enthusiasts",
+    "selected_platforms": [
+      "google",
+      "facebook",
+      "instagram"
+    ],
+    "platforms": [
+      "google",
+      "facebook",
+      "instagram"
+    ],
+    "tone": "professional",
+    "variation_count": 3,
+    "overall_score": 0.0,
+    "results": {
+      "Google Ads": {
+        "platform": "Google Ads",
+        "error": "Groq API Error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}",
+        "is_quota_exceeded": false,
+        "variations": []
+      },
+      "Facebook": {
+        "platform": "Facebook",
+        "error": "Groq API Error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}",
+        "is_quota_exceeded": false,
+        "variations": []
+      },
+      "Instagram": {
+        "platform": "Instagram",
+        "error": "Groq API Error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}",
+        "is_quota_exceeded": false,
+        "variations": []
+      }
+    }
+  },
+  {
+    "id": "f9ef41cf-b89e-4b27-9a3f-3286c2d0379e",
+    "campaign_id": "f9ef41cf-b89e-4b27-9a3f-3286c2d0379e",
+    "timestamp": "2026-09-07T09:58:08.915389",
+    "product": "Smart Fitness Watch",
+    "product_name": "Smart Fitness Watch",
+    "description": "A smartwatch that tracks heart rate, sleep, workouts, and daily activity.",
+    "audience": "Young professionals and fitness enthusiasts",
+    "target_audience": "Young professionals and fitness enthusiasts",
+    "selected_platforms": [
+      "google",
+      "facebook",
+      "instagram"
+    ],
+    "platforms": [
+      "google",
+      "facebook",
+      "instagram"
+    ],
+    "tone": "professional",
+    "variation_count": 3,
+    "overall_score": 0.0,
+    "results": {
+      "Google Ads": {
+        "platform": "Google Ads",
+        "error": "Groq API Error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}",
+        "is_quota_exceeded": false,
+        "variations": []
+      },
+      "Facebook": {
+        "platform": "Facebook",
+        "error": "Groq API Error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}",
+        "is_quota_exceeded": false,
+        "variations": []
+      },
+      "Instagram": {
+        "platform": "Instagram",
+        "error": "Groq API Error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}",
+        "is_quota_exceeded": false,
+        "variations": []
+      }
+    }
+  },
+  {
+    "id": "b81298e6-08e9-4ed8-9b42-ae2ebc0d02cc",
+    "campaign_id": "b81298e6-08e9-4ed8-9b42-ae2ebc0d02cc",
+    "timestamp": "2026-09-07T09:57:57.286247",
+    "product": "Smart Fitness Watch",
+    "product_name": "Smart Fitness Watch",
+    "description": "A smartwatch that tracks heart rate, sleep, workouts, and daily activity.",
+    "audience": "Young professionals and fitness enthusiasts",
+    "target_audience": "Young professionals and fitness enthusiasts",
+    "selected_platforms": [
+      "google",
+      "facebook",
+      "instagram"
+    ],
+    "platforms": [
+      "google",
+      "facebook",
+      "instagram"
+    ],
+    "tone": "professional",
+    "variation_count": 3,
+    "overall_score": 0.0,
+    "results": {
+      "Google Ads": {
+        "platform": "Google Ads",
+        "error": "Groq API Error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}",
+        "is_quota_exceeded": false,
+        "variations": []
+      },
+      "Facebook": {
+        "platform": "Facebook",
+        "error": "Groq API Error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}",
+        "is_quota_exceeded": false,
+        "variations": []
+      },
+      "Instagram": {
+        "platform": "Instagram",
+        "error": "Groq API Error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}",
+        "is_quota_exceeded": false,
+        "variations": []
+      }
+    }
+  },
+  {
+    "id": "04085729-8888-42e4-ae92-0eee425251c1",
+    "campaign_id": "04085729-8888-42e4-ae92-0eee425251c1",
+    "timestamp": "2026-09-07T09:55:56.315255",
+    "product": "Smart Fitness Watch",
+    "product_name": "Smart Fitness Watch",
+    "description": "A smartwatch that tracks heart rate, sleep, workouts, and daily activity.",
+    "audience": "Young professionals and fitness enthusiasts",
+    "target_audience": "Young professionals and fitness enthusiasts",
+    "selected_platforms": [
+      "google",
+      "facebook",
+      "instagram"
+    ],
+    "platforms": [
+      "google",
+      "facebook",
+      "instagram"
+    ],
+    "tone": "professional",
+    "variation_count": 3,
+    "overall_score": 0.0,
+    "results": {
+      "Google Ads": {
+        "platform": "Google Ads",
+        "error": "Groq API Error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}",
+        "is_quota_exceeded": false,
+        "variations": []
+      },
+      "Facebook": {
+        "platform": "Facebook",
+        "error": "Groq API Error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}",
+        "is_quota_exceeded": false,
+        "variations": []
+      },
+      "Instagram": {
+        "platform": "Instagram",
+        "error": "Groq API Error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}",
+        "is_quota_exceeded": false,
+        "variations": []
+      }
+    }
+  },
+  {
+    "id": "0ad44f7d-20cb-4c30-bc52-0c45ed905faf",
+    "campaign_id": "0ad44f7d-20cb-4c30-bc52-0c45ed905faf",
+    "timestamp": "2026-09-07T09:54:04.727864",
+    "product": "Smart Fitness Watch",
+    "product_name": "Smart Fitness Watch",
+    "description": "A smartwatch that tracks heart rate, sleep, workouts, and daily activity.",
+    "audience": "Young professionals and fitness enthusiasts",
+    "target_audience": "Young professionals and fitness enthusiasts",
+    "selected_platforms": [
+      "google",
+      "facebook",
+      "instagram"
+    ],
+    "platforms": [
+      "google",
+      "facebook",
+      "instagram"
+    ],
+    "tone": "professional",
+    "variation_count": 3,
+    "overall_score": 0.0,
+    "results": {
+      "Google Ads": {
+        "platform": "Google Ads",
+        "error": "Groq API Error: Connection error.",
+        "is_quota_exceeded": false,
+        "variations": []
+      },
+      "Facebook": {
+        "platform": "Facebook",
+        "error": "Groq API Error: Request timed out.",
+        "is_quota_exceeded": false,
+        "variations": []
+      },
+      "Instagram": {
+        "platform": "Instagram",
+        "error": "Groq API Error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}",
+        "is_quota_exceeded": false,
+        "variations": []
+      }
+    }
+  },
+  {
+    "id": "5751a36f-f933-4d18-8096-ce2ad50f4a3c",
+    "campaign_id": "5751a36f-f933-4d18-8096-ce2ad50f4a3c",
+    "timestamp": "2026-09-07T09:35:11.877327",
+    "product": "Acme Cloud CRM",
+    "product_name": "Acme Cloud CRM",
+    "description": "AI automation CRM",
+    "audience": "Founders",
+    "target_audience": "Founders",
+    "selected_platforms": [
+      "google"
+    ],
+    "platforms": [
+      "google"
+    ],
+    "tone": "professional",
+    "variation_count": 2,
+    "overall_score": 0.0,
+    "results": {
+      "Google Ads": {
+        "platform": "Google Ads",
+        "error": "Groq API Error: Connection error.",
+        "is_quota_exceeded": false,
+        "variations": []
+      }
+    }
+  },
+  {
+    "id": "ac38ef99-ee53-426e-988e-d45241ac4b5f",
+    "campaign_id": "ac38ef99-ee53-426e-988e-d45241ac4b5f",
+    "timestamp": "2026-09-07T09:29:12.394010",
+    "product": "Variant Test",
+    "product_name": "Variant Test",
+    "description": "Testing counts",
+    "audience": "Devs",
+    "target_audience": "Devs",
+    "selected_platforms": [
+      "facebook"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "tone": "casual",
+    "variation_count": 3,
+    "overall_score": 81.8,
+    "results": {
+      "Facebook": {
+        "platform": "Facebook",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Transform Your Marketing",
+            "body": "Boost conversions with AI ad copies.",
+            "cta": "Get Started",
+            "hashtags": [
+              "#marketing",
+              "#ai"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize facebook engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize facebook engagement."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Save 10+ Hours Every Week",
+            "body": "Automate copy creation instantly.",
+            "cta": "Claim Trial",
+            "hashtags": [
+              "#productivity"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize facebook engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize facebook engagement."
+            ]
+          },
+          {
+            "id": "C",
+            "label": "Urgency-Focused",
+            "headline": "Limited Seats Available",
+            "body": "Claim your discount today before time runs out.",
+            "cta": "Join Now",
+            "hashtags": [
+              "#urgent"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize facebook engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize facebook engagement."
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "93e6117e-35f3-4854-9c90-7245151a6493",
+    "campaign_id": "93e6117e-35f3-4854-9c90-7245151a6493",
+    "timestamp": "2026-09-07T09:29:12.377131",
+    "product": "Variant Test",
+    "product_name": "Variant Test",
+    "description": "Testing counts",
+    "audience": "Devs",
+    "target_audience": "Devs",
+    "selected_platforms": [
+      "facebook"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "tone": "casual",
+    "variation_count": 2,
+    "overall_score": 81.8,
+    "results": {
+      "Facebook": {
+        "platform": "Facebook",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Transform Your Marketing",
+            "body": "Boost conversions with AI ad copies.",
+            "cta": "Get Started",
+            "hashtags": [
+              "#marketing",
+              "#ai"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize facebook engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize facebook engagement."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Save 10+ Hours Every Week",
+            "body": "Automate copy creation instantly.",
+            "cta": "Claim Trial",
+            "hashtags": [
+              "#productivity"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize facebook engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize facebook engagement."
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "c86fb42b-2049-4540-baa2-982ca81a1f80",
+    "campaign_id": "c86fb42b-2049-4540-baa2-982ca81a1f80",
+    "timestamp": "2026-09-07T09:29:12.342340",
+    "product": "Variant Test",
+    "product_name": "Variant Test",
+    "description": "Testing counts",
+    "audience": "Devs",
+    "target_audience": "Devs",
+    "selected_platforms": [
+      "facebook"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "tone": "casual",
+    "variation_count": 1,
+    "overall_score": 81.8,
+    "results": {
+      "Facebook": {
+        "platform": "Facebook",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Transform Your Marketing",
+            "body": "Boost conversions with AI ad copies.",
+            "cta": "Get Started",
+            "hashtags": [
+              "#marketing",
+              "#ai"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize facebook engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize facebook engagement."
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "5b90168f-0962-4a39-9412-23ae3d6b1bd0",
+    "campaign_id": "5b90168f-0962-4a39-9412-23ae3d6b1bd0",
+    "timestamp": "2026-09-07T09:29:12.322876",
+    "product": "Product Multi",
+    "product_name": "Product Multi",
+    "description": "Multi platform test",
+    "audience": "All Marketers",
+    "target_audience": "All Marketers",
+    "selected_platforms": [
+      "google",
+      "facebook",
+      "instagram",
+      "linkedin",
+      "twitter"
+    ],
+    "platforms": [
+      "google",
+      "facebook",
+      "instagram",
+      "linkedin",
+      "twitter"
+    ],
+    "tone": "urgent",
+    "variation_count": 3,
+    "overall_score": 81.8,
+    "results": {
+      "Google Ads": {
+        "platform": "Google Ads",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Transform Your Marketing",
+            "body": "Boost conversions with AI ad copies.",
+            "cta": "Get Started",
+            "hashtags": [
+              "#marketing",
+              "#ai"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize google engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize google engagement."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Save 10+ Hours Every Week",
+            "body": "Automate copy creation instantly.",
+            "cta": "Claim Trial",
+            "hashtags": [
+              "#productivity"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize google engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize google engagement."
+            ]
+          },
+          {
+            "id": "C",
+            "label": "Urgency-Focused",
+            "headline": "Limited Seats Available",
+            "body": "Claim your discount today before time runs out.",
+            "cta": "Join Now",
+            "hashtags": [
+              "#urgent"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize google engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize google engagement."
+            ]
+          }
+        ]
+      },
+      "Facebook": {
+        "platform": "Facebook",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Transform Your Marketing",
+            "body": "Boost conversions with AI ad copies.",
+            "cta": "Get Started",
+            "hashtags": [
+              "#marketing",
+              "#ai"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize facebook engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize facebook engagement."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Save 10+ Hours Every Week",
+            "body": "Automate copy creation instantly.",
+            "cta": "Claim Trial",
+            "hashtags": [
+              "#productivity"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize facebook engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize facebook engagement."
+            ]
+          },
+          {
+            "id": "C",
+            "label": "Urgency-Focused",
+            "headline": "Limited Seats Available",
+            "body": "Claim your discount today before time runs out.",
+            "cta": "Join Now",
+            "hashtags": [
+              "#urgent"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize facebook engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize facebook engagement."
+            ]
+          }
+        ]
+      },
+      "Instagram": {
+        "platform": "Instagram",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Transform Your Marketing",
+            "body": "Boost conversions with AI ad copies.",
+            "cta": "Get Started",
+            "hashtags": [
+              "#marketing",
+              "#ai"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize instagram engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize instagram engagement."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Save 10+ Hours Every Week",
+            "body": "Automate copy creation instantly.",
+            "cta": "Claim Trial",
+            "hashtags": [
+              "#productivity"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize instagram engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize instagram engagement."
+            ]
+          },
+          {
+            "id": "C",
+            "label": "Urgency-Focused",
+            "headline": "Limited Seats Available",
+            "body": "Claim your discount today before time runs out.",
+            "cta": "Join Now",
+            "hashtags": [
+              "#urgent"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize instagram engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize instagram engagement."
+            ]
+          }
+        ]
+      },
+      "LinkedIn": {
+        "platform": "LinkedIn",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Transform Your Marketing",
+            "body": "Boost conversions with AI ad copies.",
+            "cta": "Get Started",
+            "hashtags": [
+              "#marketing",
+              "#ai"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize linkedin engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize linkedin engagement."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Save 10+ Hours Every Week",
+            "body": "Automate copy creation instantly.",
+            "cta": "Claim Trial",
+            "hashtags": [
+              "#productivity"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize linkedin engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize linkedin engagement."
+            ]
+          },
+          {
+            "id": "C",
+            "label": "Urgency-Focused",
+            "headline": "Limited Seats Available",
+            "body": "Claim your discount today before time runs out.",
+            "cta": "Join Now",
+            "hashtags": [
+              "#urgent"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize linkedin engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize linkedin engagement."
+            ]
+          }
+        ]
+      },
+      "Twitter/X": {
+        "platform": "Twitter/X",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Transform Your Marketing",
+            "body": "Boost conversions with AI ad copies.",
+            "cta": "Get Started",
+            "hashtags": [
+              "#marketing",
+              "#ai"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize twitter engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize twitter engagement."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Save 10+ Hours Every Week",
+            "body": "Automate copy creation instantly.",
+            "cta": "Claim Trial",
+            "hashtags": [
+              "#productivity"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize twitter engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize twitter engagement."
+            ]
+          },
+          {
+            "id": "C",
+            "label": "Urgency-Focused",
+            "headline": "Limited Seats Available",
+            "body": "Claim your discount today before time runs out.",
+            "cta": "Join Now",
+            "hashtags": [
+              "#urgent"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize twitter engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize twitter engagement."
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "599c109d-2267-4a3a-bf17-2ccea8497385",
+    "campaign_id": "599c109d-2267-4a3a-bf17-2ccea8497385",
+    "timestamp": "2026-09-07T09:29:12.302106",
+    "product": "Product Alpha",
+    "product_name": "Product Alpha",
+    "description": "Great product",
+    "audience": "General",
+    "target_audience": "General",
+    "selected_platforms": [
+      "google"
+    ],
+    "platforms": [
+      "google"
+    ],
+    "tone": "professional",
+    "variation_count": 2,
+    "overall_score": 81.8,
+    "results": {
+      "Google Ads": {
+        "platform": "Google Ads",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Transform Your Marketing",
+            "body": "Boost conversions with AI ad copies.",
+            "cta": "Get Started",
+            "hashtags": [
+              "#marketing",
+              "#ai"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize google engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize google engagement."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Save 10+ Hours Every Week",
+            "body": "Automate copy creation instantly.",
+            "cta": "Claim Trial",
+            "hashtags": [
+              "#productivity"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize google engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize google engagement."
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "c84ab303-6e14-4d91-b378-592821b35e41",
+    "campaign_id": "c84ab303-6e14-4d91-b378-592821b35e41",
+    "timestamp": "2026-09-07T09:29:12.281095",
+    "product": "Rate Limit App",
+    "product_name": "Rate Limit App",
+    "description": "Testing 429 error",
+    "audience": "Devs",
+    "target_audience": "Devs",
+    "selected_platforms": [
+      "google"
+    ],
+    "platforms": [
+      "google"
+    ],
+    "tone": "professional",
+    "variation_count": 3,
+    "overall_score": 0.0,
+    "results": {
+      "Google Ads": {
+        "platform": "Google Ads",
+        "error": "Quota exceeded",
+        "is_quota_exceeded": true,
+        "variations": []
+      }
+    }
+  },
+  {
+    "id": "2e484770-e3e5-4cb9-a825-88a0dca61ff3",
+    "campaign_id": "2e484770-e3e5-4cb9-a825-88a0dca61ff3",
+    "timestamp": "2026-09-07T09:29:12.240782",
+    "product": "Test History App",
+    "product_name": "Test History App",
+    "description": "",
+    "audience": "",
+    "target_audience": "",
+    "selected_platforms": [
+      "google"
+    ],
+    "platforms": [
+      "google"
+    ],
+    "tone": "casual",
+    "variation_count": 3,
+    "overall_score": 81.8,
+    "results": {
+      "Google Ads": {
+        "platform": "Google Ads",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Transform Your Marketing",
+            "body": "Boost conversions with AI ad copies.",
+            "cta": "Get Started",
+            "hashtags": [
+              "#marketing",
+              "#ai"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize google engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize google engagement."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Save 10+ Hours Every Week",
+            "body": "Automate copy creation instantly.",
+            "cta": "Claim Trial",
+            "hashtags": [
+              "#productivity"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize google engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize google engagement."
+            ]
+          },
+          {
+            "id": "C",
+            "label": "Urgency-Focused",
+            "headline": "Limited Seats Available",
+            "body": "Claim your discount today before time runs out.",
+            "cta": "Join Now",
+            "hashtags": [
+              "#urgent"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize google engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize google engagement."
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "9138b4a0-114d-4f74-94a8-f2914ce1052b",
+    "campaign_id": "9138b4a0-114d-4f74-94a8-f2914ce1052b",
+    "timestamp": "2026-09-07T09:29:12.198712",
+    "product": "CloudSync Pro",
+    "product_name": "CloudSync Pro",
+    "description": "Automatic secure cloud backup software",
+    "audience": "IT Managers",
+    "target_audience": "IT Managers",
+    "selected_platforms": [
+      "google",
+      "facebook"
+    ],
+    "platforms": [
+      "google",
+      "facebook"
+    ],
+    "tone": "professional",
+    "variation_count": 3,
+    "overall_score": 81.8,
+    "results": {
+      "Google Ads": {
+        "platform": "Google Ads",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Transform Your Marketing",
+            "body": "Boost conversions with AI ad copies.",
+            "cta": "Get Started",
+            "hashtags": [
+              "#marketing",
+              "#ai"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize google engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize google engagement."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Save 10+ Hours Every Week",
+            "body": "Automate copy creation instantly.",
+            "cta": "Claim Trial",
+            "hashtags": [
+              "#productivity"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize google engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize google engagement."
+            ]
+          },
+          {
+            "id": "C",
+            "label": "Urgency-Focused",
+            "headline": "Limited Seats Available",
+            "body": "Claim your discount today before time runs out.",
+            "cta": "Join Now",
+            "hashtags": [
+              "#urgent"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize google engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize google engagement."
+            ]
+          }
+        ]
+      },
+      "Facebook": {
+        "platform": "Facebook",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Transform Your Marketing",
+            "body": "Boost conversions with AI ad copies.",
+            "cta": "Get Started",
+            "hashtags": [
+              "#marketing",
+              "#ai"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize facebook engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize facebook engagement."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Save 10+ Hours Every Week",
+            "body": "Automate copy creation instantly.",
+            "cta": "Claim Trial",
+            "hashtags": [
+              "#productivity"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize facebook engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize facebook engagement."
+            ]
+          },
+          {
+            "id": "C",
+            "label": "Urgency-Focused",
+            "headline": "Limited Seats Available",
+            "body": "Claim your discount today before time runs out.",
+            "cta": "Join Now",
+            "hashtags": [
+              "#urgent"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize facebook engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize facebook engagement."
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "afad57d5-e286-402f-87fb-211dd445626c",
+    "campaign_id": "afad57d5-e286-402f-87fb-211dd445626c",
+    "timestamp": "2026-09-07T09:28:47.783030",
+    "product": "Acme Cloud CRM",
+    "product_name": "Acme Cloud CRM",
+    "description": "AI automation CRM",
+    "audience": "Founders",
+    "target_audience": "Founders",
+    "selected_platforms": [
+      "google",
+      "instagram"
+    ],
+    "platforms": [
+      "google",
+      "instagram"
+    ],
+    "tone": "professional",
+    "variation_count": 2,
+    "overall_score": 82.9,
+    "results": {
+      "Google Ads": {
+        "platform": "Google Ads",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Acme AI-powered CRM",
+            "body": "AI automation, customizable pipelines, real‑time analytics in one CRM.",
+            "cta": "Start free trial",
+            "hashtags": [],
+            "score": {
+              "headline_strength": 83.0,
+              "clarity": 85.0,
+              "emotional_appeal": 59.0,
+              "cta_effectiveness": 90.0,
+              "overall": 78.9,
+              "strengths": [
+                "High-impact headline tailored for hook retention.",
+                "Concise body messaging with excellent readability.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Add sensory or FOMO trigger words to heighten emotional response."
+              ]
+            },
+            "strengths": [
+              "High-impact headline tailored for hook retention.",
+              "Concise body messaging with excellent readability.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Add sensory or FOMO trigger words to heighten emotional response."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Boost sales with AI CRM",
+            "body": "Save time, close deals faster, and grow your startup with automated insights.",
+            "cta": "Get started today",
+            "hashtags": [],
+            "score": {
+              "headline_strength": 89.0,
+              "clarity": 84.0,
+              "emotional_appeal": 81.0,
+              "cta_effectiveness": 90.0,
+              "overall": 86.0,
+              "strengths": [
+                "High-impact headline tailored for hook retention.",
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Test this variant against smaller target demographic segments."
+              ]
+            },
+            "strengths": [
+              "High-impact headline tailored for hook retention.",
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Test this variant against smaller target demographic segments."
+            ]
+          }
+        ]
+      },
+      "Instagram": {
+        "platform": "Instagram",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "AI-Powered CRM Built for Founders",
+            "body": "Automate lead capture, pipeline tracking, and follow‑ups with real‑time AI insights—so you can scale without manual hassle.",
+            "cta": "Start Free Trial",
+            "hashtags": [
+              "#AICRM",
+              "#FounderTools",
+              "#ScaleSmart"
+            ],
+            "score": {
+              "headline_strength": 83.0,
+              "clarity": 89.0,
+              "emotional_appeal": 67.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.9,
+              "strengths": [
+                "High-impact headline tailored for hook retention.",
+                "Concise body messaging with excellent readability.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Add sensory or FOMO trigger words to heighten emotional response."
+              ]
+            },
+            "strengths": [
+              "High-impact headline tailored for hook retention.",
+              "Concise body messaging with excellent readability.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Add sensory or FOMO trigger words to heighten emotional response."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Turn Leads into Loyal Customers Effortlessly",
+            "body": "Spend less time on admin and more on growth—AI automates follow‑ups, insights, and pipeline management for founders.",
+            "cta": "Explore Demo",
+            "hashtags": [
+              "#FounderGrowth",
+              "#AIAutomation",
+              "#CRMSuccess"
+            ],
+            "score": {
+              "headline_strength": 89.0,
+              "clarity": 94.0,
+              "emotional_appeal": 86.0,
+              "cta_effectiveness": 65.0,
+              "overall": 84.7,
+              "strengths": [
+                "High-impact headline tailored for hook retention.",
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers."
+              ],
+              "suggestions": [
+                "Upgrade the CTA with an explicit action verb like 'Claim', 'Unlock', or 'Get Started'."
+              ]
+            },
+            "strengths": [
+              "High-impact headline tailored for hook retention.",
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers."
+            ],
+            "suggestions": [
+              "Upgrade the CTA with an explicit action verb like 'Claim', 'Unlock', or 'Get Started'."
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "66973a55-35bf-4623-b124-f9d518c521a3",
+    "campaign_id": "66973a55-35bf-4623-b124-f9d518c521a3",
+    "timestamp": "2026-09-07T09:28:27.088212",
+    "product": "Acme Cloud CRM",
+    "product_name": "Acme Cloud CRM",
+    "description": "AI automation CRM",
+    "audience": "Founders",
+    "target_audience": "Founders",
+    "selected_platforms": [
+      "google"
+    ],
+    "platforms": [
+      "google"
+    ],
+    "tone": "professional",
+    "variation_count": 2,
+    "overall_score": 0.0,
+    "results": {
+      "Google Ads": {
+        "platform": "Google Ads",
+        "error": "Groq API key is not configured. Please set GROQ_API_KEY in your environment.",
+        "is_quota_exceeded": false,
+        "variations": []
+      }
+    }
+  },
+  {
+    "id": "0af54a11-6cfd-4719-b780-9f48fac7e326",
+    "campaign_id": "0af54a11-6cfd-4719-b780-9f48fac7e326",
+    "timestamp": "2026-09-07T09:28:19.353258",
+    "product": "Acme Cloud CRM",
+    "product_name": "Acme Cloud CRM",
+    "description": "AI automation CRM",
+    "audience": "Founders",
+    "target_audience": "Founders",
+    "selected_platforms": [
+      "google",
+      "instagram"
+    ],
+    "platforms": [
+      "google",
+      "instagram"
+    ],
+    "tone": "professional",
+    "variation_count": 2,
+    "overall_score": 0.0,
+    "results": {
+      "Google Ads": {
+        "platform": "Google Ads",
+        "error": "Groq API key is not configured. Please set GROQ_API_KEY in your environment.",
+        "is_quota_exceeded": false,
+        "variations": []
+      },
+      "Instagram": {
+        "platform": "Instagram",
+        "error": "Groq API key is not configured. Please set GROQ_API_KEY in your environment.",
+        "is_quota_exceeded": false,
+        "variations": []
+      }
+    }
+  },
+  {
+    "id": "fbd2763b-f243-4e12-84cf-10751f23e303",
+    "campaign_id": "fbd2763b-f243-4e12-84cf-10751f23e303",
+    "timestamp": "2026-09-07T09:25:17.628385",
+    "product": "Smart Fitness Watch",
+    "product_name": "Smart Fitness Watch",
+    "description": "A smartwatch that tracks heart rate, sleep, workouts, and daily activity.",
+    "audience": "Young professionals and fitness enthusiasts",
+    "target_audience": "Young professionals and fitness enthusiasts",
+    "selected_platforms": [
+      "google",
+      "facebook",
+      "instagram"
+    ],
+    "platforms": [
+      "google",
+      "facebook",
+      "instagram"
+    ],
+    "tone": "professional",
+    "variation_count": 3,
+    "overall_score": 0.0,
+    "results": {
+      "Google Ads": {
+        "platform": "Google Ads",
+        "error": "Groq API Error: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
+        "is_quota_exceeded": false,
+        "variations": []
+      },
+      "Facebook": {
+        "platform": "Facebook",
+        "error": "Groq API Error: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
+        "is_quota_exceeded": false,
+        "variations": []
+      },
+      "Instagram": {
+        "platform": "Instagram",
+        "error": "Groq API Error: Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}",
+        "is_quota_exceeded": false,
+        "variations": []
+      }
+    }
+  },
+  {
     "id": "f2344c00-8dff-4b6a-836c-12c7d1d59993",
     "campaign_id": "f2344c00-8dff-4b6a-836c-12c7d1d59993",
     "timestamp": "2026-09-07T08:59:22.894653",

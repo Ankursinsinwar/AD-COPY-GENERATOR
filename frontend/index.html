@@ -1,20 +1,25 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="AI-Powered Ad Copy Generator and A/B Tester platform using Groq Llama 3.1 8B Instant.">
+    <meta name="description"
+        content="AI-Powered Ad Copy Generator and A/B Tester platform using Groq Llama 3.1 8B Instant.">
     <title>Ad Copy Generator + A/B Tester</title>
 
     <!-- Google Fonts & FontAwesome -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Fira+Code:wght@400;500&display=swap" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Fira+Code:wght@400;500&display=swap"
+        rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    
+
     <!-- Custom Design System CSS -->
     <link rel="stylesheet" href="assets/css/style.css">
 </head>
+
 <body>
 
     <!-- Sidebar Navigation -->
@@ -52,7 +57,8 @@
         <header class="top-navbar">
             <div class="page-title-group">
                 <h1 id="pageTitle">AI Ad Copy Generator &amp; A/B Tester</h1>
-                <p id="pageSubtitle">Multi-platform campaign generation with quality analytics &amp; A/B variation strategy</p>
+                <p id="pageSubtitle">Multi-platform campaign generation with quality analytics &amp; A/B variation
+                    strategy</p>
             </div>
             <div class="navbar-actions">
                 <div class="api-status-badge" id="apiStatusBadge">
@@ -68,29 +74,32 @@
             <!-- GENERATOR VIEW -->
             <div id="generatorView">
                 <div class="generator-layout">
-                    
+
                     <!-- Campaign Input Sidebar -->
                     <div class="form-card">
                         <form id="campaignForm">
-                            
+
                             <!-- Product Name -->
                             <div class="form-group">
                                 <label class="form-label" for="productNameInput">
                                     Product / Service Name <span class="required-asterisk">*</span>
                                 </label>
-                                <input type="text" id="productNameInput" class="form-input" placeholder="e.g. Acme Cloud CRM" required>
+                                <input type="text" id="productNameInput" class="form-input"
+                                    placeholder="e.g. Acme Cloud CRM" required>
                             </div>
 
                             <!-- Key Benefits / Description -->
                             <div class="form-group">
                                 <label class="form-label" for="descriptionInput">Key Benefits / Description</label>
-                                <textarea id="descriptionInput" class="form-textarea" placeholder="Highlight key features, capabilities, and benefits..."></textarea>
+                                <textarea id="descriptionInput" class="form-textarea"
+                                    placeholder="Highlight key features, capabilities, and benefits..."></textarea>
                             </div>
 
                             <!-- Target Audience -->
                             <div class="form-group">
                                 <label class="form-label" for="targetAudienceInput">Target Audience</label>
-                                <input type="text" id="targetAudienceInput" class="form-input" placeholder="e.g. B2B Marketing Directors, SaaS Founders">
+                                <input type="text" id="targetAudienceInput" class="form-input"
+                                    placeholder="e.g. B2B Marketing Directors, SaaS Founders">
                             </div>
 
                             <!-- Platforms Pill Selector -->
@@ -136,7 +145,8 @@
                                 <div class="segmented-control" id="variationSegment">
                                     <button type="button" class="segment-btn" data-count="1">1 Variant</button>
                                     <button type="button" class="segment-btn" data-count="2">2 Variants</button>
-                                    <button type="button" class="segment-btn active" data-count="3">3 Variants (A/B/C)</button>
+                                    <button type="button" class="segment-btn active" data-count="3">3 Variants
+                                        (A/B/C)</button>
                                 </div>
                             </div>
 
@@ -150,29 +160,32 @@
 
                     <!-- Results Output Area -->
                     <div class="results-area" id="resultsArea">
-                        
+
                         <!-- Default Empty State -->
                         <div class="empty-state" id="emptyState">
                             <i class="fas fa-layer-group"></i>
                             <h3>No Campaign Generated Yet</h3>
-                            <p>Fill out the product information on the left and click <strong>Generate Ad Copies</strong> to produce AI variations and performance scores.</p>
+                            <p>Fill out the product information on the left and click <strong>Generate Ad
+                                    Copies</strong> to produce AI variations and performance scores.</p>
                         </div>
 
                         <!-- Loading State Indicator -->
                         <div class="loading-box" id="loadingBox" style="display: none;">
                             <div class="spinner"></div>
                             <h3 id="loadingTitle">Generating Platform Copy Variations...</h3>
-                            <p id="loadingSubtitle">Consulting Groq Llama 3.1 8B Instant with platform rules &amp; tone directives</p>
+                            <p id="loadingSubtitle">Consulting Groq openai/gpt-oss-20b a replacement of Groq Llama 3.1
+                                8B Instant with platform rules &amp; tone directives</p>
                         </div>
 
                         <!-- Active Campaign Results Display -->
                         <div id="campaignResultsDisplay" style="display: none;">
-                            
+
                             <!-- Action Bar -->
                             <div class="results-header-bar">
                                 <div>
                                     <h2 id="activeCampaignProduct">Campaign Results</h2>
-                                    <span class="text-secondary" id="activeCampaignMeta">3 Platforms • Professional Tone</span>
+                                    <span class="text-secondary" id="activeCampaignMeta">3 Platforms • Professional
+                                        Tone</span>
                                 </div>
                                 <div class="action-buttons">
                                     <button class="btn-secondary" id="exportCsvBtn">
@@ -221,7 +234,8 @@
         <div class="modal-card">
             <div class="modal-header">
                 <h3><i class="fab fa-markdown"></i> Notion-Compatible Markdown Export</h3>
-                <button class="copy-btn-icon" id="closeModalBtn" style="position: static;"><i class="fas fa-times"></i></button>
+                <button class="copy-btn-icon" id="closeModalBtn" style="position: static;"><i
+                        class="fas fa-times"></i></button>
             </div>
             <div class="modal-body">
                 <p class="text-secondary" style="margin-bottom: 0.75rem; font-size: 0.85rem;">
@@ -250,4 +264,5 @@
     <script src="assets/js/history.js"></script>
     <script src="assets/js/export.js"></script>
 </body>
+
 </html>
