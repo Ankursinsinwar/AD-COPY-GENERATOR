@@ -1,0 +1,3938 @@
+[
+  {
+    "id": "f2344c00-8dff-4b6a-836c-12c7d1d59993",
+    "campaign_id": "f2344c00-8dff-4b6a-836c-12c7d1d59993",
+    "timestamp": "2026-09-07T08:59:22.894653",
+    "product": "Variant Test",
+    "product_name": "Variant Test",
+    "description": "Testing counts",
+    "audience": "Devs",
+    "target_audience": "Devs",
+    "selected_platforms": [
+      "facebook"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "tone": "casual",
+    "variation_count": 3,
+    "overall_score": 81.8,
+    "results": {
+      "Facebook": {
+        "platform": "Facebook",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Transform Your Marketing",
+            "body": "Boost conversions with AI ad copies.",
+            "cta": "Get Started",
+            "hashtags": [
+              "#marketing",
+              "#ai"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize facebook engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize facebook engagement."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Save 10+ Hours Every Week",
+            "body": "Automate copy creation instantly.",
+            "cta": "Claim Trial",
+            "hashtags": [
+              "#productivity"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize facebook engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize facebook engagement."
+            ]
+          },
+          {
+            "id": "C",
+            "label": "Urgency-Focused",
+            "headline": "Limited Seats Available",
+            "body": "Claim your discount today before time runs out.",
+            "cta": "Join Now",
+            "hashtags": [
+              "#urgent"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize facebook engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize facebook engagement."
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "7cca19a0-82e4-4efb-9a32-62bd1809a63c",
+    "campaign_id": "7cca19a0-82e4-4efb-9a32-62bd1809a63c",
+    "timestamp": "2026-09-07T08:59:22.878641",
+    "product": "Variant Test",
+    "product_name": "Variant Test",
+    "description": "Testing counts",
+    "audience": "Devs",
+    "target_audience": "Devs",
+    "selected_platforms": [
+      "facebook"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "tone": "casual",
+    "variation_count": 2,
+    "overall_score": 81.8,
+    "results": {
+      "Facebook": {
+        "platform": "Facebook",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Transform Your Marketing",
+            "body": "Boost conversions with AI ad copies.",
+            "cta": "Get Started",
+            "hashtags": [
+              "#marketing",
+              "#ai"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize facebook engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize facebook engagement."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Save 10+ Hours Every Week",
+            "body": "Automate copy creation instantly.",
+            "cta": "Claim Trial",
+            "hashtags": [
+              "#productivity"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize facebook engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize facebook engagement."
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "689da520-5424-4bd6-95f6-18a869c3710e",
+    "campaign_id": "689da520-5424-4bd6-95f6-18a869c3710e",
+    "timestamp": "2026-09-07T08:59:22.861840",
+    "product": "Variant Test",
+    "product_name": "Variant Test",
+    "description": "Testing counts",
+    "audience": "Devs",
+    "target_audience": "Devs",
+    "selected_platforms": [
+      "facebook"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "tone": "casual",
+    "variation_count": 1,
+    "overall_score": 81.8,
+    "results": {
+      "Facebook": {
+        "platform": "Facebook",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Transform Your Marketing",
+            "body": "Boost conversions with AI ad copies.",
+            "cta": "Get Started",
+            "hashtags": [
+              "#marketing",
+              "#ai"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize facebook engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize facebook engagement."
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "2b09e719-8148-4ea2-aa17-31b49e35752d",
+    "campaign_id": "2b09e719-8148-4ea2-aa17-31b49e35752d",
+    "timestamp": "2026-09-07T08:59:22.844398",
+    "product": "Product Multi",
+    "product_name": "Product Multi",
+    "description": "Multi platform test",
+    "audience": "All Marketers",
+    "target_audience": "All Marketers",
+    "selected_platforms": [
+      "google",
+      "facebook",
+      "instagram",
+      "linkedin",
+      "twitter"
+    ],
+    "platforms": [
+      "google",
+      "facebook",
+      "instagram",
+      "linkedin",
+      "twitter"
+    ],
+    "tone": "urgent",
+    "variation_count": 3,
+    "overall_score": 81.8,
+    "results": {
+      "Google Ads": {
+        "platform": "Google Ads",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Transform Your Marketing",
+            "body": "Boost conversions with AI ad copies.",
+            "cta": "Get Started",
+            "hashtags": [
+              "#marketing",
+              "#ai"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize google engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize google engagement."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Save 10+ Hours Every Week",
+            "body": "Automate copy creation instantly.",
+            "cta": "Claim Trial",
+            "hashtags": [
+              "#productivity"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize google engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize google engagement."
+            ]
+          },
+          {
+            "id": "C",
+            "label": "Urgency-Focused",
+            "headline": "Limited Seats Available",
+            "body": "Claim your discount today before time runs out.",
+            "cta": "Join Now",
+            "hashtags": [
+              "#urgent"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize google engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize google engagement."
+            ]
+          }
+        ]
+      },
+      "Facebook": {
+        "platform": "Facebook",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Transform Your Marketing",
+            "body": "Boost conversions with AI ad copies.",
+            "cta": "Get Started",
+            "hashtags": [
+              "#marketing",
+              "#ai"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize facebook engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize facebook engagement."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Save 10+ Hours Every Week",
+            "body": "Automate copy creation instantly.",
+            "cta": "Claim Trial",
+            "hashtags": [
+              "#productivity"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize facebook engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize facebook engagement."
+            ]
+          },
+          {
+            "id": "C",
+            "label": "Urgency-Focused",
+            "headline": "Limited Seats Available",
+            "body": "Claim your discount today before time runs out.",
+            "cta": "Join Now",
+            "hashtags": [
+              "#urgent"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize facebook engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize facebook engagement."
+            ]
+          }
+        ]
+      },
+      "Instagram": {
+        "platform": "Instagram",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Transform Your Marketing",
+            "body": "Boost conversions with AI ad copies.",
+            "cta": "Get Started",
+            "hashtags": [
+              "#marketing",
+              "#ai"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize instagram engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize instagram engagement."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Save 10+ Hours Every Week",
+            "body": "Automate copy creation instantly.",
+            "cta": "Claim Trial",
+            "hashtags": [
+              "#productivity"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize instagram engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize instagram engagement."
+            ]
+          },
+          {
+            "id": "C",
+            "label": "Urgency-Focused",
+            "headline": "Limited Seats Available",
+            "body": "Claim your discount today before time runs out.",
+            "cta": "Join Now",
+            "hashtags": [
+              "#urgent"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize instagram engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize instagram engagement."
+            ]
+          }
+        ]
+      },
+      "LinkedIn": {
+        "platform": "LinkedIn",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Transform Your Marketing",
+            "body": "Boost conversions with AI ad copies.",
+            "cta": "Get Started",
+            "hashtags": [
+              "#marketing",
+              "#ai"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize linkedin engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize linkedin engagement."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Save 10+ Hours Every Week",
+            "body": "Automate copy creation instantly.",
+            "cta": "Claim Trial",
+            "hashtags": [
+              "#productivity"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize linkedin engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize linkedin engagement."
+            ]
+          },
+          {
+            "id": "C",
+            "label": "Urgency-Focused",
+            "headline": "Limited Seats Available",
+            "body": "Claim your discount today before time runs out.",
+            "cta": "Join Now",
+            "hashtags": [
+              "#urgent"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize linkedin engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize linkedin engagement."
+            ]
+          }
+        ]
+      },
+      "Twitter/X": {
+        "platform": "Twitter/X",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Transform Your Marketing",
+            "body": "Boost conversions with AI ad copies.",
+            "cta": "Get Started",
+            "hashtags": [
+              "#marketing",
+              "#ai"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize twitter engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize twitter engagement."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Save 10+ Hours Every Week",
+            "body": "Automate copy creation instantly.",
+            "cta": "Claim Trial",
+            "hashtags": [
+              "#productivity"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize twitter engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize twitter engagement."
+            ]
+          },
+          {
+            "id": "C",
+            "label": "Urgency-Focused",
+            "headline": "Limited Seats Available",
+            "body": "Claim your discount today before time runs out.",
+            "cta": "Join Now",
+            "hashtags": [
+              "#urgent"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize twitter engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize twitter engagement."
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "7c9d2b34-6e6f-419f-8748-35201064a0c4",
+    "campaign_id": "7c9d2b34-6e6f-419f-8748-35201064a0c4",
+    "timestamp": "2026-09-07T08:59:22.827255",
+    "product": "Product Alpha",
+    "product_name": "Product Alpha",
+    "description": "Great product",
+    "audience": "General",
+    "target_audience": "General",
+    "selected_platforms": [
+      "google"
+    ],
+    "platforms": [
+      "google"
+    ],
+    "tone": "professional",
+    "variation_count": 2,
+    "overall_score": 81.8,
+    "results": {
+      "Google Ads": {
+        "platform": "Google Ads",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Transform Your Marketing",
+            "body": "Boost conversions with AI ad copies.",
+            "cta": "Get Started",
+            "hashtags": [
+              "#marketing",
+              "#ai"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize google engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize google engagement."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Save 10+ Hours Every Week",
+            "body": "Automate copy creation instantly.",
+            "cta": "Claim Trial",
+            "hashtags": [
+              "#productivity"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize google engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize google engagement."
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "a579f3a7-01d2-41d7-84a1-61836ec62822",
+    "campaign_id": "a579f3a7-01d2-41d7-84a1-61836ec62822",
+    "timestamp": "2026-09-07T08:59:22.808519",
+    "product": "Rate Limit App",
+    "product_name": "Rate Limit App",
+    "description": "Testing 429 error",
+    "audience": "Devs",
+    "target_audience": "Devs",
+    "selected_platforms": [
+      "google"
+    ],
+    "platforms": [
+      "google"
+    ],
+    "tone": "professional",
+    "variation_count": 3,
+    "overall_score": 0.0,
+    "results": {
+      "Google Ads": {
+        "platform": "Google Ads",
+        "error": "Quota exceeded",
+        "is_quota_exceeded": true,
+        "variations": []
+      }
+    }
+  },
+  {
+    "id": "4c625d62-cc81-45a2-9152-b0888934d4bf",
+    "campaign_id": "4c625d62-cc81-45a2-9152-b0888934d4bf",
+    "timestamp": "2026-09-07T08:59:22.769409",
+    "product": "Test History App",
+    "product_name": "Test History App",
+    "description": "",
+    "audience": "",
+    "target_audience": "",
+    "selected_platforms": [
+      "google"
+    ],
+    "platforms": [
+      "google"
+    ],
+    "tone": "casual",
+    "variation_count": 3,
+    "overall_score": 81.8,
+    "results": {
+      "Google Ads": {
+        "platform": "Google Ads",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Transform Your Marketing",
+            "body": "Boost conversions with AI ad copies.",
+            "cta": "Get Started",
+            "hashtags": [
+              "#marketing",
+              "#ai"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize google engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize google engagement."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Save 10+ Hours Every Week",
+            "body": "Automate copy creation instantly.",
+            "cta": "Claim Trial",
+            "hashtags": [
+              "#productivity"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize google engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize google engagement."
+            ]
+          },
+          {
+            "id": "C",
+            "label": "Urgency-Focused",
+            "headline": "Limited Seats Available",
+            "body": "Claim your discount today before time runs out.",
+            "cta": "Join Now",
+            "hashtags": [
+              "#urgent"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize google engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize google engagement."
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "5963bb44-dcd9-488f-b2f9-15272a03f008",
+    "campaign_id": "5963bb44-dcd9-488f-b2f9-15272a03f008",
+    "timestamp": "2026-09-07T08:59:22.740979",
+    "product": "CloudSync Pro",
+    "product_name": "CloudSync Pro",
+    "description": "Automatic secure cloud backup software",
+    "audience": "IT Managers",
+    "target_audience": "IT Managers",
+    "selected_platforms": [
+      "google",
+      "facebook"
+    ],
+    "platforms": [
+      "google",
+      "facebook"
+    ],
+    "tone": "professional",
+    "variation_count": 3,
+    "overall_score": 81.8,
+    "results": {
+      "Google Ads": {
+        "platform": "Google Ads",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Transform Your Marketing",
+            "body": "Boost conversions with AI ad copies.",
+            "cta": "Get Started",
+            "hashtags": [
+              "#marketing",
+              "#ai"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize google engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize google engagement."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Save 10+ Hours Every Week",
+            "body": "Automate copy creation instantly.",
+            "cta": "Claim Trial",
+            "hashtags": [
+              "#productivity"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize google engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize google engagement."
+            ]
+          },
+          {
+            "id": "C",
+            "label": "Urgency-Focused",
+            "headline": "Limited Seats Available",
+            "body": "Claim your discount today before time runs out.",
+            "cta": "Join Now",
+            "hashtags": [
+              "#urgent"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize google engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize google engagement."
+            ]
+          }
+        ]
+      },
+      "Facebook": {
+        "platform": "Facebook",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Transform Your Marketing",
+            "body": "Boost conversions with AI ad copies.",
+            "cta": "Get Started",
+            "hashtags": [
+              "#marketing",
+              "#ai"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize facebook engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize facebook engagement."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Save 10+ Hours Every Week",
+            "body": "Automate copy creation instantly.",
+            "cta": "Claim Trial",
+            "hashtags": [
+              "#productivity"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize facebook engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize facebook engagement."
+            ]
+          },
+          {
+            "id": "C",
+            "label": "Urgency-Focused",
+            "headline": "Limited Seats Available",
+            "body": "Claim your discount today before time runs out.",
+            "cta": "Join Now",
+            "hashtags": [
+              "#urgent"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize facebook engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize facebook engagement."
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "95642796-bb75-4605-8e50-9f325f3bb33f",
+    "campaign_id": "95642796-bb75-4605-8e50-9f325f3bb33f",
+    "timestamp": "2026-09-07T08:55:21.767975",
+    "product": "Variant Test",
+    "product_name": "Variant Test",
+    "description": "Testing counts",
+    "audience": "Devs",
+    "target_audience": "Devs",
+    "selected_platforms": [
+      "facebook"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "tone": "casual",
+    "variation_count": 3,
+    "overall_score": 81.8,
+    "results": {
+      "Facebook": {
+        "platform": "Facebook",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Transform Your Marketing",
+            "body": "Boost conversions with AI ad copies.",
+            "cta": "Get Started",
+            "hashtags": [
+              "#marketing",
+              "#ai"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize facebook engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize facebook engagement."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Save 10+ Hours Every Week",
+            "body": "Automate copy creation instantly.",
+            "cta": "Claim Trial",
+            "hashtags": [
+              "#productivity"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize facebook engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize facebook engagement."
+            ]
+          },
+          {
+            "id": "C",
+            "label": "Urgency-Focused",
+            "headline": "Limited Seats Available",
+            "body": "Claim your discount today before time runs out.",
+            "cta": "Join Now",
+            "hashtags": [
+              "#urgent"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize facebook engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize facebook engagement."
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "e0dbd61b-9dc3-416b-93cf-2a1aaab26c38",
+    "campaign_id": "e0dbd61b-9dc3-416b-93cf-2a1aaab26c38",
+    "timestamp": "2026-09-07T08:55:21.754735",
+    "product": "Variant Test",
+    "product_name": "Variant Test",
+    "description": "Testing counts",
+    "audience": "Devs",
+    "target_audience": "Devs",
+    "selected_platforms": [
+      "facebook"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "tone": "casual",
+    "variation_count": 2,
+    "overall_score": 81.8,
+    "results": {
+      "Facebook": {
+        "platform": "Facebook",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Transform Your Marketing",
+            "body": "Boost conversions with AI ad copies.",
+            "cta": "Get Started",
+            "hashtags": [
+              "#marketing",
+              "#ai"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize facebook engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize facebook engagement."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Save 10+ Hours Every Week",
+            "body": "Automate copy creation instantly.",
+            "cta": "Claim Trial",
+            "hashtags": [
+              "#productivity"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize facebook engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize facebook engagement."
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "fe48250f-55e8-4af0-ab88-5665b2903447",
+    "campaign_id": "fe48250f-55e8-4af0-ab88-5665b2903447",
+    "timestamp": "2026-09-07T08:55:21.739766",
+    "product": "Variant Test",
+    "product_name": "Variant Test",
+    "description": "Testing counts",
+    "audience": "Devs",
+    "target_audience": "Devs",
+    "selected_platforms": [
+      "facebook"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "tone": "casual",
+    "variation_count": 1,
+    "overall_score": 81.8,
+    "results": {
+      "Facebook": {
+        "platform": "Facebook",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Transform Your Marketing",
+            "body": "Boost conversions with AI ad copies.",
+            "cta": "Get Started",
+            "hashtags": [
+              "#marketing",
+              "#ai"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize facebook engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize facebook engagement."
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "90c15d0c-070a-43a4-98e0-e4cbe396717f",
+    "campaign_id": "90c15d0c-070a-43a4-98e0-e4cbe396717f",
+    "timestamp": "2026-09-07T08:55:21.724571",
+    "product": "Product Multi",
+    "product_name": "Product Multi",
+    "description": "Multi platform test",
+    "audience": "All Marketers",
+    "target_audience": "All Marketers",
+    "selected_platforms": [
+      "google",
+      "facebook",
+      "instagram",
+      "linkedin",
+      "twitter"
+    ],
+    "platforms": [
+      "google",
+      "facebook",
+      "instagram",
+      "linkedin",
+      "twitter"
+    ],
+    "tone": "urgent",
+    "variation_count": 3,
+    "overall_score": 81.8,
+    "results": {
+      "Google Ads": {
+        "platform": "Google Ads",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Transform Your Marketing",
+            "body": "Boost conversions with AI ad copies.",
+            "cta": "Get Started",
+            "hashtags": [
+              "#marketing",
+              "#ai"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize google engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize google engagement."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Save 10+ Hours Every Week",
+            "body": "Automate copy creation instantly.",
+            "cta": "Claim Trial",
+            "hashtags": [
+              "#productivity"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize google engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize google engagement."
+            ]
+          },
+          {
+            "id": "C",
+            "label": "Urgency-Focused",
+            "headline": "Limited Seats Available",
+            "body": "Claim your discount today before time runs out.",
+            "cta": "Join Now",
+            "hashtags": [
+              "#urgent"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize google engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize google engagement."
+            ]
+          }
+        ]
+      },
+      "Facebook": {
+        "platform": "Facebook",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Transform Your Marketing",
+            "body": "Boost conversions with AI ad copies.",
+            "cta": "Get Started",
+            "hashtags": [
+              "#marketing",
+              "#ai"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize facebook engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize facebook engagement."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Save 10+ Hours Every Week",
+            "body": "Automate copy creation instantly.",
+            "cta": "Claim Trial",
+            "hashtags": [
+              "#productivity"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize facebook engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize facebook engagement."
+            ]
+          },
+          {
+            "id": "C",
+            "label": "Urgency-Focused",
+            "headline": "Limited Seats Available",
+            "body": "Claim your discount today before time runs out.",
+            "cta": "Join Now",
+            "hashtags": [
+              "#urgent"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize facebook engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize facebook engagement."
+            ]
+          }
+        ]
+      },
+      "Instagram": {
+        "platform": "Instagram",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Transform Your Marketing",
+            "body": "Boost conversions with AI ad copies.",
+            "cta": "Get Started",
+            "hashtags": [
+              "#marketing",
+              "#ai"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize instagram engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize instagram engagement."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Save 10+ Hours Every Week",
+            "body": "Automate copy creation instantly.",
+            "cta": "Claim Trial",
+            "hashtags": [
+              "#productivity"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize instagram engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize instagram engagement."
+            ]
+          },
+          {
+            "id": "C",
+            "label": "Urgency-Focused",
+            "headline": "Limited Seats Available",
+            "body": "Claim your discount today before time runs out.",
+            "cta": "Join Now",
+            "hashtags": [
+              "#urgent"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize instagram engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize instagram engagement."
+            ]
+          }
+        ]
+      },
+      "LinkedIn": {
+        "platform": "LinkedIn",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Transform Your Marketing",
+            "body": "Boost conversions with AI ad copies.",
+            "cta": "Get Started",
+            "hashtags": [
+              "#marketing",
+              "#ai"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize linkedin engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize linkedin engagement."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Save 10+ Hours Every Week",
+            "body": "Automate copy creation instantly.",
+            "cta": "Claim Trial",
+            "hashtags": [
+              "#productivity"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize linkedin engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize linkedin engagement."
+            ]
+          },
+          {
+            "id": "C",
+            "label": "Urgency-Focused",
+            "headline": "Limited Seats Available",
+            "body": "Claim your discount today before time runs out.",
+            "cta": "Join Now",
+            "hashtags": [
+              "#urgent"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize linkedin engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize linkedin engagement."
+            ]
+          }
+        ]
+      },
+      "Twitter/X": {
+        "platform": "Twitter/X",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Transform Your Marketing",
+            "body": "Boost conversions with AI ad copies.",
+            "cta": "Get Started",
+            "hashtags": [
+              "#marketing",
+              "#ai"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize twitter engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize twitter engagement."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Save 10+ Hours Every Week",
+            "body": "Automate copy creation instantly.",
+            "cta": "Claim Trial",
+            "hashtags": [
+              "#productivity"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize twitter engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize twitter engagement."
+            ]
+          },
+          {
+            "id": "C",
+            "label": "Urgency-Focused",
+            "headline": "Limited Seats Available",
+            "body": "Claim your discount today before time runs out.",
+            "cta": "Join Now",
+            "hashtags": [
+              "#urgent"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize twitter engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize twitter engagement."
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "61eb7e53-a29e-47be-857b-22749c7b446f",
+    "campaign_id": "61eb7e53-a29e-47be-857b-22749c7b446f",
+    "timestamp": "2026-09-07T08:55:21.709347",
+    "product": "Product Alpha",
+    "product_name": "Product Alpha",
+    "description": "Great product",
+    "audience": "General",
+    "target_audience": "General",
+    "selected_platforms": [
+      "google"
+    ],
+    "platforms": [
+      "google"
+    ],
+    "tone": "professional",
+    "variation_count": 2,
+    "overall_score": 81.8,
+    "results": {
+      "Google Ads": {
+        "platform": "Google Ads",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Transform Your Marketing",
+            "body": "Boost conversions with AI ad copies.",
+            "cta": "Get Started",
+            "hashtags": [
+              "#marketing",
+              "#ai"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize google engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize google engagement."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Save 10+ Hours Every Week",
+            "body": "Automate copy creation instantly.",
+            "cta": "Claim Trial",
+            "hashtags": [
+              "#productivity"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize google engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize google engagement."
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "03771170-6bd2-4e33-b3db-aaa52b87608f",
+    "campaign_id": "03771170-6bd2-4e33-b3db-aaa52b87608f",
+    "timestamp": "2026-09-07T08:55:21.691467",
+    "product": "Rate Limit App",
+    "product_name": "Rate Limit App",
+    "description": "Testing 429 error",
+    "audience": "Devs",
+    "target_audience": "Devs",
+    "selected_platforms": [
+      "google"
+    ],
+    "platforms": [
+      "google"
+    ],
+    "tone": "professional",
+    "variation_count": 3,
+    "overall_score": 0.0,
+    "results": {
+      "Google Ads": {
+        "platform": "Google Ads",
+        "error": "Quota exceeded",
+        "is_quota_exceeded": true,
+        "variations": []
+      }
+    }
+  },
+  {
+    "id": "7996c556-fa74-4932-9cde-28d6c9553966",
+    "campaign_id": "7996c556-fa74-4932-9cde-28d6c9553966",
+    "timestamp": "2026-09-07T08:55:21.659048",
+    "product": "Test History App",
+    "product_name": "Test History App",
+    "description": "",
+    "audience": "",
+    "target_audience": "",
+    "selected_platforms": [
+      "google"
+    ],
+    "platforms": [
+      "google"
+    ],
+    "tone": "casual",
+    "variation_count": 3,
+    "overall_score": 81.8,
+    "results": {
+      "Google Ads": {
+        "platform": "Google Ads",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Transform Your Marketing",
+            "body": "Boost conversions with AI ad copies.",
+            "cta": "Get Started",
+            "hashtags": [
+              "#marketing",
+              "#ai"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize google engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize google engagement."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Save 10+ Hours Every Week",
+            "body": "Automate copy creation instantly.",
+            "cta": "Claim Trial",
+            "hashtags": [
+              "#productivity"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize google engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize google engagement."
+            ]
+          },
+          {
+            "id": "C",
+            "label": "Urgency-Focused",
+            "headline": "Limited Seats Available",
+            "body": "Claim your discount today before time runs out.",
+            "cta": "Join Now",
+            "hashtags": [
+              "#urgent"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize google engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize google engagement."
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "00adba8c-e8f5-4d2e-bbc0-76845ca3d1d0",
+    "campaign_id": "00adba8c-e8f5-4d2e-bbc0-76845ca3d1d0",
+    "timestamp": "2026-09-07T08:55:21.619607",
+    "product": "CloudSync Pro",
+    "product_name": "CloudSync Pro",
+    "description": "Automatic secure cloud backup software",
+    "audience": "IT Managers",
+    "target_audience": "IT Managers",
+    "selected_platforms": [
+      "google",
+      "facebook"
+    ],
+    "platforms": [
+      "google",
+      "facebook"
+    ],
+    "tone": "professional",
+    "variation_count": 3,
+    "overall_score": 81.8,
+    "results": {
+      "Google Ads": {
+        "platform": "Google Ads",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Transform Your Marketing",
+            "body": "Boost conversions with AI ad copies.",
+            "cta": "Get Started",
+            "hashtags": [
+              "#marketing",
+              "#ai"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize google engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize google engagement."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Save 10+ Hours Every Week",
+            "body": "Automate copy creation instantly.",
+            "cta": "Claim Trial",
+            "hashtags": [
+              "#productivity"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize google engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize google engagement."
+            ]
+          },
+          {
+            "id": "C",
+            "label": "Urgency-Focused",
+            "headline": "Limited Seats Available",
+            "body": "Claim your discount today before time runs out.",
+            "cta": "Join Now",
+            "hashtags": [
+              "#urgent"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize google engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize google engagement."
+            ]
+          }
+        ]
+      },
+      "Facebook": {
+        "platform": "Facebook",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Transform Your Marketing",
+            "body": "Boost conversions with AI ad copies.",
+            "cta": "Get Started",
+            "hashtags": [
+              "#marketing",
+              "#ai"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize facebook engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize facebook engagement."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Save 10+ Hours Every Week",
+            "body": "Automate copy creation instantly.",
+            "cta": "Claim Trial",
+            "hashtags": [
+              "#productivity"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize facebook engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize facebook engagement."
+            ]
+          },
+          {
+            "id": "C",
+            "label": "Urgency-Focused",
+            "headline": "Limited Seats Available",
+            "body": "Claim your discount today before time runs out.",
+            "cta": "Join Now",
+            "hashtags": [
+              "#urgent"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize facebook engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize facebook engagement."
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "f40100b7-e223-494b-8d7e-5139fc4184ae",
+    "campaign_id": "f40100b7-e223-494b-8d7e-5139fc4184ae",
+    "timestamp": "2026-09-07T08:53:15.996354",
+    "product": "Variant Test",
+    "product_name": "Variant Test",
+    "description": "Testing counts",
+    "audience": "Devs",
+    "target_audience": "Devs",
+    "selected_platforms": [
+      "facebook"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "tone": "casual",
+    "variation_count": 3,
+    "overall_score": 81.8,
+    "results": {
+      "Facebook": {
+        "platform": "Facebook",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Transform Your Marketing",
+            "body": "Boost conversions with AI ad copies.",
+            "cta": "Get Started",
+            "hashtags": [
+              "#marketing",
+              "#ai"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize facebook engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize facebook engagement."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Save 10+ Hours Every Week",
+            "body": "Automate copy creation instantly.",
+            "cta": "Claim Trial",
+            "hashtags": [
+              "#productivity"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize facebook engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize facebook engagement."
+            ]
+          },
+          {
+            "id": "C",
+            "label": "Urgency-Focused",
+            "headline": "Limited Seats Available",
+            "body": "Claim your discount today before time runs out.",
+            "cta": "Join Now",
+            "hashtags": [
+              "#urgent"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize facebook engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize facebook engagement."
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "3bacb2a0-108a-477b-bde3-1f0c03281104",
+    "campaign_id": "3bacb2a0-108a-477b-bde3-1f0c03281104",
+    "timestamp": "2026-09-07T08:53:15.977089",
+    "product": "Variant Test",
+    "product_name": "Variant Test",
+    "description": "Testing counts",
+    "audience": "Devs",
+    "target_audience": "Devs",
+    "selected_platforms": [
+      "facebook"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "tone": "casual",
+    "variation_count": 2,
+    "overall_score": 81.8,
+    "results": {
+      "Facebook": {
+        "platform": "Facebook",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Transform Your Marketing",
+            "body": "Boost conversions with AI ad copies.",
+            "cta": "Get Started",
+            "hashtags": [
+              "#marketing",
+              "#ai"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize facebook engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize facebook engagement."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Save 10+ Hours Every Week",
+            "body": "Automate copy creation instantly.",
+            "cta": "Claim Trial",
+            "hashtags": [
+              "#productivity"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize facebook engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize facebook engagement."
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "3f28ffaa-ce2a-44a7-9d74-d6d66a632194",
+    "campaign_id": "3f28ffaa-ce2a-44a7-9d74-d6d66a632194",
+    "timestamp": "2026-09-07T08:53:15.956202",
+    "product": "Variant Test",
+    "product_name": "Variant Test",
+    "description": "Testing counts",
+    "audience": "Devs",
+    "target_audience": "Devs",
+    "selected_platforms": [
+      "facebook"
+    ],
+    "platforms": [
+      "facebook"
+    ],
+    "tone": "casual",
+    "variation_count": 1,
+    "overall_score": 81.8,
+    "results": {
+      "Facebook": {
+        "platform": "Facebook",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Transform Your Marketing",
+            "body": "Boost conversions with AI ad copies.",
+            "cta": "Get Started",
+            "hashtags": [
+              "#marketing",
+              "#ai"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize facebook engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize facebook engagement."
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "42fa006d-9eb5-4f97-b3bf-c771a28690c2",
+    "campaign_id": "42fa006d-9eb5-4f97-b3bf-c771a28690c2",
+    "timestamp": "2026-09-07T08:53:15.941128",
+    "product": "Product Multi",
+    "product_name": "Product Multi",
+    "description": "Multi platform test",
+    "audience": "All Marketers",
+    "target_audience": "All Marketers",
+    "selected_platforms": [
+      "google",
+      "facebook",
+      "instagram",
+      "linkedin",
+      "twitter"
+    ],
+    "platforms": [
+      "google",
+      "facebook",
+      "instagram",
+      "linkedin",
+      "twitter"
+    ],
+    "tone": "urgent",
+    "variation_count": 3,
+    "overall_score": 81.8,
+    "results": {
+      "Google Ads": {
+        "platform": "Google Ads",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Transform Your Marketing",
+            "body": "Boost conversions with AI ad copies.",
+            "cta": "Get Started",
+            "hashtags": [
+              "#marketing",
+              "#ai"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize google engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize google engagement."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Save 10+ Hours Every Week",
+            "body": "Automate copy creation instantly.",
+            "cta": "Claim Trial",
+            "hashtags": [
+              "#productivity"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize google engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize google engagement."
+            ]
+          },
+          {
+            "id": "C",
+            "label": "Urgency-Focused",
+            "headline": "Limited Seats Available",
+            "body": "Claim your discount today before time runs out.",
+            "cta": "Join Now",
+            "hashtags": [
+              "#urgent"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize google engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize google engagement."
+            ]
+          }
+        ]
+      },
+      "Facebook": {
+        "platform": "Facebook",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Transform Your Marketing",
+            "body": "Boost conversions with AI ad copies.",
+            "cta": "Get Started",
+            "hashtags": [
+              "#marketing",
+              "#ai"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize facebook engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize facebook engagement."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Save 10+ Hours Every Week",
+            "body": "Automate copy creation instantly.",
+            "cta": "Claim Trial",
+            "hashtags": [
+              "#productivity"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize facebook engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize facebook engagement."
+            ]
+          },
+          {
+            "id": "C",
+            "label": "Urgency-Focused",
+            "headline": "Limited Seats Available",
+            "body": "Claim your discount today before time runs out.",
+            "cta": "Join Now",
+            "hashtags": [
+              "#urgent"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize facebook engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize facebook engagement."
+            ]
+          }
+        ]
+      },
+      "Instagram": {
+        "platform": "Instagram",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Transform Your Marketing",
+            "body": "Boost conversions with AI ad copies.",
+            "cta": "Get Started",
+            "hashtags": [
+              "#marketing",
+              "#ai"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize instagram engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize instagram engagement."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Save 10+ Hours Every Week",
+            "body": "Automate copy creation instantly.",
+            "cta": "Claim Trial",
+            "hashtags": [
+              "#productivity"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize instagram engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize instagram engagement."
+            ]
+          },
+          {
+            "id": "C",
+            "label": "Urgency-Focused",
+            "headline": "Limited Seats Available",
+            "body": "Claim your discount today before time runs out.",
+            "cta": "Join Now",
+            "hashtags": [
+              "#urgent"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize instagram engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize instagram engagement."
+            ]
+          }
+        ]
+      },
+      "LinkedIn": {
+        "platform": "LinkedIn",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Transform Your Marketing",
+            "body": "Boost conversions with AI ad copies.",
+            "cta": "Get Started",
+            "hashtags": [
+              "#marketing",
+              "#ai"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize linkedin engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize linkedin engagement."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Save 10+ Hours Every Week",
+            "body": "Automate copy creation instantly.",
+            "cta": "Claim Trial",
+            "hashtags": [
+              "#productivity"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize linkedin engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize linkedin engagement."
+            ]
+          },
+          {
+            "id": "C",
+            "label": "Urgency-Focused",
+            "headline": "Limited Seats Available",
+            "body": "Claim your discount today before time runs out.",
+            "cta": "Join Now",
+            "hashtags": [
+              "#urgent"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize linkedin engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize linkedin engagement."
+            ]
+          }
+        ]
+      },
+      "Twitter/X": {
+        "platform": "Twitter/X",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Transform Your Marketing",
+            "body": "Boost conversions with AI ad copies.",
+            "cta": "Get Started",
+            "hashtags": [
+              "#marketing",
+              "#ai"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize twitter engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize twitter engagement."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Save 10+ Hours Every Week",
+            "body": "Automate copy creation instantly.",
+            "cta": "Claim Trial",
+            "hashtags": [
+              "#productivity"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize twitter engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize twitter engagement."
+            ]
+          },
+          {
+            "id": "C",
+            "label": "Urgency-Focused",
+            "headline": "Limited Seats Available",
+            "body": "Claim your discount today before time runs out.",
+            "cta": "Join Now",
+            "hashtags": [
+              "#urgent"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize twitter engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize twitter engagement."
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "ba1db000-2cda-4fec-8a0e-061c58d83ef5",
+    "campaign_id": "ba1db000-2cda-4fec-8a0e-061c58d83ef5",
+    "timestamp": "2026-09-07T08:53:15.926143",
+    "product": "Product Alpha",
+    "product_name": "Product Alpha",
+    "description": "Great product",
+    "audience": "General",
+    "target_audience": "General",
+    "selected_platforms": [
+      "google"
+    ],
+    "platforms": [
+      "google"
+    ],
+    "tone": "professional",
+    "variation_count": 2,
+    "overall_score": 81.8,
+    "results": {
+      "Google Ads": {
+        "platform": "Google Ads",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Transform Your Marketing",
+            "body": "Boost conversions with AI ad copies.",
+            "cta": "Get Started",
+            "hashtags": [
+              "#marketing",
+              "#ai"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize google engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize google engagement."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Save 10+ Hours Every Week",
+            "body": "Automate copy creation instantly.",
+            "cta": "Claim Trial",
+            "hashtags": [
+              "#productivity"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize google engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize google engagement."
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "ee4010f4-7de7-4249-a1c6-a39e6b1fe847",
+    "campaign_id": "ee4010f4-7de7-4249-a1c6-a39e6b1fe847",
+    "timestamp": "2026-09-07T08:53:15.841713",
+    "product": "Rate Limit App",
+    "product_name": "Rate Limit App",
+    "description": "Testing 429 error",
+    "audience": "Devs",
+    "target_audience": "Devs",
+    "selected_platforms": [
+      "google"
+    ],
+    "platforms": [
+      "google"
+    ],
+    "tone": "professional",
+    "variation_count": 3,
+    "overall_score": 0.0,
+    "results": {
+      "Google Ads": {
+        "platform": "Google Ads",
+        "error": "Quota exceeded",
+        "is_quota_exceeded": true,
+        "variations": []
+      }
+    }
+  },
+  {
+    "id": "9d43ca0e-5636-4908-83f2-a9e30cf78271",
+    "campaign_id": "9d43ca0e-5636-4908-83f2-a9e30cf78271",
+    "timestamp": "2026-09-07T08:53:15.811727",
+    "product": "Test History App",
+    "product_name": "Test History App",
+    "description": "",
+    "audience": "",
+    "target_audience": "",
+    "selected_platforms": [
+      "google"
+    ],
+    "platforms": [
+      "google"
+    ],
+    "tone": "casual",
+    "variation_count": 3,
+    "overall_score": 81.8,
+    "results": {
+      "Google Ads": {
+        "platform": "Google Ads",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Transform Your Marketing",
+            "body": "Boost conversions with AI ad copies.",
+            "cta": "Get Started",
+            "hashtags": [
+              "#marketing",
+              "#ai"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize google engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize google engagement."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Save 10+ Hours Every Week",
+            "body": "Automate copy creation instantly.",
+            "cta": "Claim Trial",
+            "hashtags": [
+              "#productivity"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize google engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize google engagement."
+            ]
+          },
+          {
+            "id": "C",
+            "label": "Urgency-Focused",
+            "headline": "Limited Seats Available",
+            "body": "Claim your discount today before time runs out.",
+            "cta": "Join Now",
+            "hashtags": [
+              "#urgent"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize google engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize google engagement."
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "4a6dff5f-4175-4321-b74c-1d9077541795",
+    "campaign_id": "4a6dff5f-4175-4321-b74c-1d9077541795",
+    "timestamp": "2026-09-07T08:53:15.781061",
+    "product": "CloudSync Pro",
+    "product_name": "CloudSync Pro",
+    "description": "Automatic secure cloud backup software",
+    "audience": "IT Managers",
+    "target_audience": "IT Managers",
+    "selected_platforms": [
+      "google",
+      "facebook"
+    ],
+    "platforms": [
+      "google",
+      "facebook"
+    ],
+    "tone": "professional",
+    "variation_count": 3,
+    "overall_score": 81.8,
+    "results": {
+      "Google Ads": {
+        "platform": "Google Ads",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Transform Your Marketing",
+            "body": "Boost conversions with AI ad copies.",
+            "cta": "Get Started",
+            "hashtags": [
+              "#marketing",
+              "#ai"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize google engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize google engagement."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Save 10+ Hours Every Week",
+            "body": "Automate copy creation instantly.",
+            "cta": "Claim Trial",
+            "hashtags": [
+              "#productivity"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize google engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize google engagement."
+            ]
+          },
+          {
+            "id": "C",
+            "label": "Urgency-Focused",
+            "headline": "Limited Seats Available",
+            "body": "Claim your discount today before time runs out.",
+            "cta": "Join Now",
+            "hashtags": [
+              "#urgent"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize google engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize google engagement."
+            ]
+          }
+        ]
+      },
+      "Facebook": {
+        "platform": "Facebook",
+        "variations": [
+          {
+            "id": "A",
+            "label": "Feature-Focused",
+            "headline": "Transform Your Marketing",
+            "body": "Boost conversions with AI ad copies.",
+            "cta": "Get Started",
+            "hashtags": [
+              "#marketing",
+              "#ai"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize facebook engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize facebook engagement."
+            ]
+          },
+          {
+            "id": "B",
+            "label": "Benefit-Focused",
+            "headline": "Save 10+ Hours Every Week",
+            "body": "Automate copy creation instantly.",
+            "cta": "Claim Trial",
+            "hashtags": [
+              "#productivity"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize facebook engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize facebook engagement."
+            ]
+          },
+          {
+            "id": "C",
+            "label": "Urgency-Focused",
+            "headline": "Limited Seats Available",
+            "body": "Claim your discount today before time runs out.",
+            "cta": "Join Now",
+            "hashtags": [
+              "#urgent"
+            ],
+            "score": {
+              "headline_strength": 77.0,
+              "clarity": 80,
+              "emotional_appeal": 83.0,
+              "cta_effectiveness": 90.0,
+              "overall": 81.8,
+              "strengths": [
+                "Concise body messaging with excellent readability.",
+                "Strong emotional resonance using persuasive power triggers.",
+                "Clear, action-oriented Call to Action driving conversions."
+              ],
+              "suggestions": [
+                "Consider shortening or sharpening the headline to maximize facebook engagement."
+              ]
+            },
+            "strengths": [
+              "Concise body messaging with excellent readability.",
+              "Strong emotional resonance using persuasive power triggers.",
+              "Clear, action-oriented Call to Action driving conversions."
+            ],
+            "suggestions": [
+              "Consider shortening or sharpening the headline to maximize facebook engagement."
+            ]
+          }
+        ]
+      }
+    }
+  }
+]

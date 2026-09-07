@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="AI-Powered Ad Copy Generator and A/B Tester platform using Groq Llama 3.1 8B Instant.">
+    <title>Ad Copy Generator + A/B Tester</title>
+
+    <!-- Google Fonts & FontAwesome -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Fira+Code:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <!-- Custom Design System CSS -->
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+    <!-- Sidebar Navigation -->
+    <aside class="app-sidebar" id="sidebar">
+        <div class="brand-header">
+            <div class="brand-logo">
+                <i class="fas fa-bolt"></i>
+            </div>
+            <div>
+                <div class="brand-title">AdCopy AI</div>
+                <div class="brand-badge">A/B Engine 1.0</div>
+            </div>
+        </div>
+
+        <nav class="sidebar-nav">
+            <a class="nav-link active" id="navGeneratorBtn">
+                <i class="fas fa-magic"></i>
+                <span>Ad Generator</span>
+            </a>
+            <a class="nav-link" id="navHistoryBtn">
+                <i class="fas fa-history"></i>
+                <span>Campaign History</span>
+            </a>
+        </nav>
+
+        <div class="sidebar-footer">
+            <p><i class="fas fa-server"></i> Model: Llama 3.1 8B Instant</p>
+            <p>&copy; 2026 AdCopy AI Platform</p>
+        </div>
+    </aside>
+
+    <!-- Main Content Area -->
+    <main class="app-main">
+        <!-- Top Navbar -->
+        <header class="top-navbar">
+            <div class="page-title-group">
+                <h1 id="pageTitle">AI Ad Copy Generator &amp; A/B Tester</h1>
+                <p id="pageSubtitle">Multi-platform campaign generation with quality analytics &amp; A/B variation strategy</p>
+            </div>
+            <div class="navbar-actions">
+                <div class="api-status-badge" id="apiStatusBadge">
+                    <span class="status-dot"></span>
+                    <span id="apiStatusText">Checking API...</span>
+                </div>
+            </div>
+        </header>
+
+        <!-- Main Workspace Container -->
+        <div class="content-container">
+
+            <!-- GENERATOR VIEW -->
+            <div id="generatorView">
+                <div class="generator-layout">
+                    
+                    <!-- Campaign Input Sidebar -->
+                    <div class="form-card">
+                        <form id="campaignForm">
+                            
+                            <!-- Product Name -->
+                            <div class="form-group">
+                                <label class="form-label" for="productNameInput">
+                                    Product / Service Name <span class="required-asterisk">*</span>
+                                </label>
+                                <input type="text" id="productNameInput" class="form-input" placeholder="e.g. Acme Cloud CRM" required>
+                            </div>
+
+                            <!-- Key Benefits / Description -->
+                            <div class="form-group">
+                                <label class="form-label" for="descriptionInput">Key Benefits / Description</label>
+                                <textarea id="descriptionInput" class="form-textarea" placeholder="Highlight key features, capabilities, and benefits..."></textarea>
+                            </div>
+
+                            <!-- Target Audience -->
+                            <div class="form-group">
+                                <label class="form-label" for="targetAudienceInput">Target Audience</label>
+                                <input type="text" id="targetAudienceInput" class="form-input" placeholder="e.g. B2B Marketing Directors, SaaS Founders">
+                            </div>
+
+                            <!-- Platforms Pill Selector -->
+                            <div class="form-group">
+                                <label class="form-label">
+                                    Select Platforms <span class="required-asterisk">*</span>
+                                </label>
+                                <div class="pill-grid" id="platformPillGrid">
+                                    <div class="platform-pill selected" data-platform="google">
+                                        <i class="fab fa-google"></i> Google Ads
+                                    </div>
+                                    <div class="platform-pill selected" data-platform="facebook">
+                                        <i class="fab fa-facebook"></i> Facebook
+                                    </div>
+                                    <div class="platform-pill selected" data-platform="instagram">
+                                        <i class="fab fa-instagram"></i> Instagram
+                                    </div>
+                                    <div class="platform-pill" data-platform="linkedin">
+                                        <i class="fab fa-linkedin"></i> LinkedIn
+                                    </div>
+                                    <div class="platform-pill" data-platform="twitter">
+                                        <i class="fab fa-twitter"></i> Twitter/X
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Tone Selector -->
+                            <div class="form-group">
+                                <label class="form-label">Tone &amp; Style</label>
+                                <div class="pill-grid" id="tonePillGrid">
+                                    <div class="tone-pill selected" data-tone="professional">Professional</div>
+                                    <div class="tone-pill" data-tone="casual">Casual</div>
+                                    <div class="tone-pill" data-tone="urgent">Urgent</div>
+                                    <div class="tone-pill" data-tone="humorous">Humorous</div>
+                                    <div class="tone-pill" data-tone="emotional">Emotional</div>
+                                    <div class="tone-pill" data-tone="minimalist">Minimalist</div>
+                                </div>
+                            </div>
+
+                            <!-- Variation Count -->
+                            <div class="form-group">
+                                <label class="form-label">A/B Variation Count</label>
+                                <div class="segmented-control" id="variationSegment">
+                                    <button type="button" class="segment-btn" data-count="1">1 Variant</button>
+                                    <button type="button" class="segment-btn" data-count="2">2 Variants</button>
+                                    <button type="button" class="segment-btn active" data-count="3">3 Variants (A/B/C)</button>
+                                </div>
+                            </div>
+
+                            <!-- Submit Button -->
+                            <button type="submit" class="btn-primary" id="generateBtn">
+                                <i class="fas fa-wand-magic-sparkles"></i>
+                                <span>Generate Ad Copies</span>
+                            </button>
+                        </form>
+                    </div>
+
+                    <!-- Results Output Area -->
+                    <div class="results-area" id="resultsArea">
+                        
+                        <!-- Default Empty State -->
+                        <div class="empty-state" id="emptyState">
+                            <i class="fas fa-layer-group"></i>
+                            <h3>No Campaign Generated Yet</h3>
+                            <p>Fill out the product information on the left and click <strong>Generate Ad Copies</strong> to produce AI variations and performance scores.</p>
+                        </div>
+
+                        <!-- Loading State Indicator -->
+                        <div class="loading-box" id="loadingBox" style="display: none;">
+                            <div class="spinner"></div>
+                            <h3 id="loadingTitle">Generating Platform Copy Variations...</h3>
+                            <p id="loadingSubtitle">Consulting Groq Llama 3.1 8B Instant with platform rules &amp; tone directives</p>
+                        </div>
+
+                        <!-- Active Campaign Results Display -->
+                        <div id="campaignResultsDisplay" style="display: none;">
+                            
+                            <!-- Action Bar -->
+                            <div class="results-header-bar">
+                                <div>
+                                    <h2 id="activeCampaignProduct">Campaign Results</h2>
+                                    <span class="text-secondary" id="activeCampaignMeta">3 Platforms • Professional Tone</span>
+                                </div>
+                                <div class="action-buttons">
+                                    <button class="btn-secondary" id="exportCsvBtn">
+                                        <i class="fas fa-file-csv"></i> Export CSV
+                                    </button>
+                                    <button class="btn-secondary" id="exportNotionBtn">
+                                        <i class="fab fa-markdown"></i> Export to Notion
+                                    </button>
+                                </div>
+                            </div>
+
+                            <!-- Container for Rendered Platform Cards -->
+                            <div id="platformCardsContainer"></div>
+
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+            <!-- CAMPAIGN HISTORY VIEW -->
+            <div id="historyView" style="display: none;">
+                <div class="results-header-bar" style="margin-bottom: 1.5rem;">
+                    <div>
+                        <h2>Saved Campaign History</h2>
+                        <p class="text-secondary">Locally persisted generation history from data/history.json</p>
+                    </div>
+                    <button class="btn-secondary" id="refreshHistoryBtn">
+                        <i class="fas fa-sync-alt"></i> Refresh
+                    </button>
+                </div>
+
+                <div id="historyListContainer">
+                    <div class="loading-box">
+                        <div class="spinner"></div>
+                        <p>Loading saved campaigns...</p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </main>
+
+    <!-- Notion Export Markdown Modal -->
+    <div class="modal-overlay" id="notionModal">
+        <div class="modal-card">
+            <div class="modal-header">
+                <h3><i class="fab fa-markdown"></i> Notion-Compatible Markdown Export</h3>
+                <button class="copy-btn-icon" id="closeModalBtn" style="position: static;"><i class="fas fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <p class="text-secondary" style="margin-bottom: 0.75rem; font-size: 0.85rem;">
+                    Copy the Markdown below to paste directly into your Notion workspace:
+                </p>
+                <div class="markdown-preview" id="markdownPreviewContent">Loading Markdown...</div>
+            </div>
+            <div class="modal-footer">
+                <button class="btn-secondary" id="downloadMdFileBtn">
+                    <i class="fas fa-download"></i> Download .md
+                </button>
+                <button class="btn-primary" id="copyMarkdownBtn" style="width: auto;">
+                    <i class="fas fa-copy"></i> Copy Markdown
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Toast Notification Container -->
+    <div class="toast-container" id="toastContainer"></div>
+
+    <!-- Modular JS Assets -->
+    <script src="assets/js/app.js"></script>
+    <script src="assets/js/generator.js"></script>
+    <script src="assets/js/results.js"></script>
+    <script src="assets/js/history.js"></script>
+    <script src="assets/js/export.js"></script>
+</body>
+</html>

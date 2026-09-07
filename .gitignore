@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment files (Never commit sensitive API keys)
+.env
+.env.local
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE & Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Pytest / Coverage reports
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Application generated exports
+exports/*.csv
+exports/*.md
+!exports/.gitkeep
