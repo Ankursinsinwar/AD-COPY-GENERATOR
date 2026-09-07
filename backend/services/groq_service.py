@@ -1,15 +1,21 @@
 """
 Groq AI API Integration Service.
 
-Manages communication with the Groq API using the Llama 3.1 8B Instant model.
+Manages communication with the Groq API using the specified model (llama-3.1-8b-instant).
 Handles initialization, API calls, rate limits (HTTP 429), and errors gracefully.
 """
 
 import os
 import logging
+from pathlib import Path
 from typing import Tuple, Dict, Any, Optional
+from dotenv import load_dotenv
 
 logger = logging.getLogger(__name__)
+
+# Ensure environment variables are loaded from project root .env
+BASE_DIR = Path(__file__).resolve().parent.parent.parent
+load_dotenv(BASE_DIR / ".env")
 
 
 class GroqService:
@@ -21,10 +27,10 @@ class GroqService:
         
         Args:
             api_key (Optional[str]): Groq API key.
-            model (Optional[str]): Model identifier.
+            model (Optional[str]): Primary model identifier.
         """
         self.api_key = api_key or os.environ.get("GROQ_API_KEY", "")
-        self.model = model or os.environ.get("GROQ_MODEL", "llama-3.1-8b-instant")
+        self.model = model or os.environ.get("GROQ_MODEL", "openai/gpt-oss-20b")
         self.client = None
 
         if self.api_key and self.api_key.strip() and not self.api_key.startswith("your_"):
@@ -40,7 +46,7 @@ class GroqService:
 
     def generate_completion(self, system_prompt: str, user_prompt: str, temperature: float = 0.7) -> Tuple[bool, str, Dict[str, Any]]:
         """
-        Send completion request to Groq API.
+        Send completion request to Groq API using configured model (llama-3.1-8b-instant).
         
         Args:
             system_prompt (str): System instruction prompt.
@@ -49,7 +55,6 @@ class GroqService:
             
         Returns:
             Tuple[bool, str, Dict[str, Any]]: (success, raw_text_response, metadata)
-                metadata contains keys: 'error', 'is_quota_exceeded', 'error_type'
         """
         meta = {"error": "", "is_quota_exceeded": False, "error_type": ""}
 
@@ -70,10 +75,11 @@ class GroqService:
                     {"role": "user", "content": user_prompt}
                 ],
                 temperature=temperature,
-                max_tokens=1500
+                max_tokens=3000
             )
 
             raw_text = response.choices[0].message.content or ""
+            meta["model_used"] = self.model
             return True, raw_text, meta
 
         except Exception as e:

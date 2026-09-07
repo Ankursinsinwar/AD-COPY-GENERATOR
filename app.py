@@ -36,7 +36,7 @@ def create_app(config_name=None):
     # Configuration
     app.config["SECRET_KEY"] = os.environ.get("FLASK_SECRET_KEY", "dev-secret-key-12345")
     app.config["GROQ_API_KEY"] = os.environ.get("GROQ_API_KEY", "")
-    app.config["GROQ_MODEL"] = os.environ.get("GROQ_MODEL", "llama-3.1-8b-instant")
+    app.config["GROQ_MODEL"] = os.environ.get("GROQ_MODEL", "openai/gpt-oss-20b")
     app.config["EXPORTS_DIR"] = BASE_DIR / "exports"
     app.config["DATA_DIR"] = BASE_DIR / "data"
 
